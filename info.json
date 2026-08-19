@@ -1,10 +1,15 @@
 {
-  "schemaVersion": 1,
-  "platforms": [
-    {
-      "platform_id": "nintendo-switch",
-      "platform_title": "Nintendo Switch",
-      "cover_art_url": "https://i.imgur.com/jTmyXxd.png"
-    }
-  ]
+    "schemaVersion": 1,
+    "platforms": [
+        {
+            "platform_id": "nintendo-switch",
+            "platform_title": "Nintendo Switch",
+            "cover_art_url": "https://i.imgur.com/jTmyXxd.png"
+        },
+        {
+            "platform_id": "nintendo-switch-2",
+            "platform_title": "Nintendo Switch 2",
+            "cover_art_url": "https://i.imgur.com/uTgEMRx.png"
+        }
+    ]
 }

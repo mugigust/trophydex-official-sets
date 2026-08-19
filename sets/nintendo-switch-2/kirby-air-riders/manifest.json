@@ -1,0 +1,475 @@
+{
+  "schemaVersion": 1,
+  "title": "Kirby Air Riders",
+  "coverUrl": "https://i.imgur.com/c1W4qLQ.png",
+  "trophies": [
+    {
+      "id": "airborne-beginner",
+      "name": "First Flight",
+      "description": "Complete your first Air Ride race.",
+      "tier": "bronze",
+      "group": null,
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/airborne-beginner.png",
+      "order": 1
+    },
+    {
+      "id": "road-trip-begins",
+      "name": "Hit the Road",
+      "description": "Complete your first Road Trip stage.",
+      "tier": "bronze",
+      "group": null,
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/road-trip-begins.png",
+      "order": 2
+    },
+    {
+      "id": "top-down-speedster",
+      "name": "Top of the World",
+      "description": "Complete your first Top Ride race.",
+      "tier": "bronze",
+      "group": null,
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/top-down-speedster.png",
+      "order": 3
+    },
+    {
+      "id": "skyah-explorer",
+      "name": "Welcome to Skyah",
+      "description": "Complete your first City Trial match.",
+      "tier": "bronze",
+      "group": null,
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/skyah-explorer.png",
+      "order": 4
+    },
+    {
+      "id": "check-the-box",
+      "name": "One Down",
+      "description": "Complete your first Checklist objective.",
+      "tier": "bronze",
+      "group": null,
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/check-the-box.png",
+      "order": 5
+    },
+    {
+      "id": "mile-high-club",
+      "name": "Miles Ahead",
+      "description": "Earn your first 10,000 Miles.",
+      "tier": "bronze",
+      "group": null,
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/mile-high-club.png",
+      "order": 6
+    },
+    {
+      "id": "full-throttle",
+      "name": "Full Throttle",
+      "description": "Reach 125 mph in Road Trip.",
+      "tier": "bronze",
+      "group": "Road Trip",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/full-throttle.png",
+      "order": 7
+    },
+    {
+      "id": "road-warrior",
+      "name": "Road Warrior",
+      "description": "Collect 250,000 Road Miles in Road Trip.",
+      "tier": "bronze",
+      "group": "Road Trip",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/road-warrior.png",
+      "order": 8
+    },
+    {
+      "id": "big-spender",
+      "name": "Big Spender",
+      "description": "Spend 25,000 Road Miles in a single Road Trip shop visit.",
+      "tier": "bronze",
+      "group": "Road Trip",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/big-spender.png",
+      "order": 9
+    },
+    {
+      "id": "tomato-time",
+      "name": "Tomato Time",
+      "description": "Eat two Maxim Tomatoes in Road Trip.",
+      "tier": "bronze",
+      "group": "Road Trip",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/tomato-time.png",
+      "order": 10
+    },
+    {
+      "id": "marx-attack",
+      "name": "Marx Attack",
+      "description": "Defeat Marx in Road Trip.",
+      "tier": "silver",
+      "group": "Road Trip",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/marx-attack.png",
+      "order": 11
+    },
+    {
+      "id": "normal-ending",
+      "name": "The Journey Continues",
+      "description": "Complete Road Trip and see the normal ending.",
+      "tier": "silver",
+      "group": "Road Trip",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/normal-ending.png",
+      "order": 12
+    },
+    {
+      "id": "new-game-plus",
+      "name": "Round Two",
+      "description": "Unlock New Game Plus in Road Trip.",
+      "tier": "bronze",
+      "group": "Road Trip",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/new-game-plus.png",
+      "order": 13
+    },
+    {
+      "id": "machine-collector",
+      "name": "Fully Equipped",
+      "description": "Collect all 22 Machines required for the Road Trip true ending.",
+      "tier": "gold",
+      "group": "Road Trip",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/machine-collector.png",
+      "order": 14
+    },
+    {
+      "id": "journeys-end",
+      "name": "Journey's End",
+      "description": "Reach the secret Stage 12 in Road Trip.",
+      "tier": "silver",
+      "group": "Road Trip",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/journeys-end.png",
+      "order": 15
+    },
+    {
+      "id": "galactic-showdown",
+      "name": "Galactic Showdown",
+      "description": "Defeat Galactic Nova and witness Road Trip's true ending.",
+      "tier": "gold",
+      "group": "Road Trip",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/galactic-showdown.png",
+      "order": 16
+    },
+    {
+      "id": "noir-dedede",
+      "name": "Noir Knight",
+      "description": "Unlock Noir Dedede.",
+      "tier": "silver",
+      "group": "Road Trip",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/noir-dedede.png",
+      "order": 17
+    },
+    {
+      "id": "leo-legend",
+      "name": "Legendary Leo",
+      "description": "Unlock Leo as a usable Machine.",
+      "tier": "silver",
+      "group": "Road Trip",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/leo-legend.png",
+      "order": 18
+    },
+    {
+      "id": "air-ride-complete",
+      "name": "Air Ride Ace",
+      "description": "Complete every objective on the Air Ride Checklist.",
+      "tier": "gold",
+      "group": "Air Ride",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/air-ride-complete.png",
+      "order": 19
+    },
+    {
+      "id": "classic-circuit",
+      "name": "Classic Circuit",
+      "description": "Unlock all nine returning Air Ride courses, including Nebula Belt.",
+      "tier": "silver",
+      "group": "Air Ride",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/classic-circuit.png",
+      "order": 20
+    },
+    {
+      "id": "air-ride-machines",
+      "name": "Garage Full",
+      "description": "Unlock every Machine available through the Air Ride progression.",
+      "tier": "silver",
+      "group": "Air Ride",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/air-ride-machines.png",
+      "order": 21
+    },
+    {
+      "id": "air-ride-rank",
+      "name": "Rainbow Rider",
+      "description": "Reach Rainbow rank in Air Ride.",
+      "tier": "gold",
+      "group": "Air Ride",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/air-ride-rank.png",
+      "order": 22
+    },
+    {
+      "id": "air-ride-records",
+      "name": "Record Breaker",
+      "description": "Set Time Attack and Free Run records with at least 10 different Machines.",
+      "tier": "silver",
+      "group": "Air Ride",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/air-ride-records.png",
+      "order": 23
+    },
+    {
+      "id": "copy-master",
+      "name": "Copy Cat",
+      "description": "Successfully use the full variety of Copy Abilities required by Air Ride Checklist objectives.",
+      "tier": "bronze",
+      "group": "Air Ride",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/copy-master.png",
+      "order": 24
+    },
+    {
+      "id": "air-ride-perfect",
+      "name": "Perfect Lap",
+      "description": "Finish an Air Ride race without crashing into a wall.",
+      "tier": "bronze",
+      "group": "Air Ride",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/air-ride-perfect.png",
+      "order": 25
+    },
+    {
+      "id": "air-ride-winner",
+      "name": "Road to Victory",
+      "description": "Win 15 Air Ride races.",
+      "tier": "bronze",
+      "group": "Air Ride",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/air-ride-winner.png",
+      "order": 26
+    },
+    {
+      "id": "top-ride-complete",
+      "name": "Top Class",
+      "description": "Complete every objective on the Top Ride Checklist.",
+      "tier": "gold",
+      "group": "Top Ride",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/top-ride-complete.png",
+      "order": 27
+    },
+    {
+      "id": "top-ride-courses",
+      "name": "All-Terrain Topper",
+      "description": "Win on every Top Ride course and variation.",
+      "tier": "silver",
+      "group": "Top Ride",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/top-ride-courses.png",
+      "order": 28
+    },
+    {
+      "id": "top-ride-rules",
+      "name": "Rule the Track",
+      "description": "Unlock every Top Ride Extra Rule.",
+      "tier": "silver",
+      "group": "Top Ride",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/top-ride-rules.png",
+      "order": 29
+    },
+    {
+      "id": "top-ride-rank",
+      "name": "Rainbow on Top",
+      "description": "Reach Rainbow rank in Top Ride.",
+      "tier": "gold",
+      "group": "Top Ride",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/top-ride-rank.png",
+      "order": 30
+    },
+    {
+      "id": "top-ride-master",
+      "name": "Top Ride Champion",
+      "description": "Earn a perfect result on every Top Ride course.",
+      "tier": "silver",
+      "group": "Top Ride",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/top-ride-master.png",
+      "order": 31
+    },
+    {
+      "id": "city-trial-complete",
+      "name": "City Slicker",
+      "description": "Complete every objective on the City Trial Checklist.",
+      "tier": "gold",
+      "group": "City Trial",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/city-trial-complete.png",
+      "order": 32
+    },
+    {
+      "id": "skyah-surveyor",
+      "name": "Skyah Surveyor",
+      "description": "Experience every Field Event in City Trial.",
+      "tier": "silver",
+      "group": "City Trial",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/skyah-surveyor.png",
+      "order": 33
+    },
+    {
+      "id": "dragoon-parts",
+      "name": "Dragoon Assemble!",
+      "description": "Collect all three parts of the Legendary Machine Dragoon.",
+      "tier": "silver",
+      "group": "City Trial",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/dragoon-parts.png",
+      "order": 34
+    },
+    {
+      "id": "hydra-parts",
+      "name": "Hydra Assemble!",
+      "description": "Collect all three parts of the Legendary Machine Hydra.",
+      "tier": "silver",
+      "group": "City Trial",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/hydra-parts.png",
+      "order": 35
+    },
+    {
+      "id": "gigantes-unlocked",
+      "name": "Gigantes Unleashed",
+      "description": "Unlock Gigantes through Road Trip's normal ending.",
+      "tier": "silver",
+      "group": "City Trial",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/gigantes-unlocked.png",
+      "order": 36
+    },
+    {
+      "id": "city-trial-legend",
+      "name": "City Trial Legend",
+      "description": "Unlock Leo in City Trial after meeting the requirements for the Legendary Machine.",
+      "tier": "silver",
+      "group": "City Trial",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/city-trial-legend.png",
+      "order": 37
+    },
+    {
+      "id": "stadium-complete",
+      "name": "Stadium Star",
+      "description": "Unlock and clear every Stadium contest available through the Checklists.",
+      "tier": "silver",
+      "group": "City Trial",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/stadium-complete.png",
+      "order": 38
+    },
+    {
+      "id": "city-trial-rank",
+      "name": "Rainbow Over Skyah",
+      "description": "Reach Rainbow rank in City Trial.",
+      "tier": "gold",
+      "group": "City Trial",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/city-trial-rank.png",
+      "order": 39
+    },
+    {
+      "id": "all-riders",
+      "name": "Full Roster",
+      "description": "Unlock every playable Rider, including Noir Dedede.",
+      "tier": "gold",
+      "group": "Collection",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/all-riders.png",
+      "order": 40
+    },
+    {
+      "id": "rider-colors",
+      "name": "Colorful Cast",
+      "description": "Unlock every alternate Rider costume/color.",
+      "tier": "silver",
+      "group": "Collection",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/rider-colors.png",
+      "order": 41
+    },
+    {
+      "id": "all-machines",
+      "name": "Ultimate Garage",
+      "description": "Unlock every Machine in the game.",
+      "tier": "gold",
+      "group": "Collection",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/all-machines.png",
+      "order": 42
+    },
+    {
+      "id": "cosmetic-complete",
+      "name": "Style Supreme",
+      "description": "Unlock every collectible cosmetic item, including License Card cosmetics and Machine customization items.",
+      "tier": "gold",
+      "group": "Collection",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/cosmetic-complete.png",
+      "order": 43
+    },
+    {
+      "id": "license-complete",
+      "name": "Licensed to Ride",
+      "description": "Complete the full License Card collection.",
+      "tier": "silver",
+      "group": "Collection",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/license-complete.png",
+      "order": 44
+    },
+    {
+      "id": "music-complete",
+      "name": "Sound of Speed",
+      "description": "Unlock every unlockable music track.",
+      "tier": "silver",
+      "group": "Collection",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/music-complete.png",
+      "order": 45
+    },
+    {
+      "id": "movie-collection",
+      "name": "Curtain Call",
+      "description": "Unlock every unlockable movie and ending sequence.",
+      "tier": "silver",
+      "group": "Collection",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/movie-collection.png",
+      "order": 46
+    },
+    {
+      "id": "online-checklist",
+      "name": "Connected Challenger",
+      "description": "Complete every objective on the Online Checklist.",
+      "tier": "gold",
+      "group": "Online",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/online-checklist.png",
+      "order": 47
+    },
+    {
+      "id": "online-ready",
+      "name": "Online Regular",
+      "description": "Complete an Online Checklist objective.",
+      "tier": "bronze",
+      "group": "Online",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/online-ready.png",
+      "order": 48
+    },
+    {
+      "id": "mile-millionaire",
+      "name": "Million-Mile Rider",
+      "description": "Accumulate 1,000,000 Miles across your profile.",
+      "tier": "silver",
+      "group": "Collection",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/mile-millionaire.png",
+      "order": 49
+    },
+    {
+      "id": "checklist-master",
+      "name": "Checklist Completionist",
+      "description": "Complete all five 150-objective Checklists: Air Ride, Top Ride, City Trial, Road Trip, and Online.",
+      "tier": "gold",
+      "group": "Completion",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/checklist-master.png",
+      "order": 50
+    },
+    {
+      "id": "fully-completed",
+      "name": "Fully Completed",
+      "description": "Clear every major mode's Checklist and unlock the game's fully completed milestone.",
+      "tier": "silver",
+      "group": "Completion",
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/fully-completed.png",
+      "order": 51
+    },
+    {
+      "id": "kirby-air-riders-master",
+      "name": "Kirby Air Riders Master",
+      "description": "Earn every other trophy.",
+      "tier": "platinum",
+      "group": null,
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/kirby-air-riders-master.png",
+      "order": 52
+    }
+  ]
+}
