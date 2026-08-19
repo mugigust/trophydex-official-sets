@@ -1,0 +1,217 @@
+{
+    "schemaVersion": 1,
+    "title": "Splatoon 2",
+    "coverArtUrl": "https://cdn2.steamgriddb.com/icon_thumb/250c8f7b55f429db970a3a85b3c8259a.png",
+    "trophies": [
+        {
+            "groupName": "Base Game",
+            "name": "Deepsea Legend",
+            "description": "Earn every other trophy in Splatoon 2's single-player campaign, including the Octo Expansion",
+            "tier": "platinum",
+            "unlocked": false
+        },
+        {
+            "groupName": "Base Game",
+            "name": "Welcome to Octo Canyon",
+            "description": "Enter Octo Canyon for the first time",
+            "tier": "bronze",
+            "unlocked": false
+        },
+        {
+            "groupName": "Base Game",
+            "name": "Zapfish Rescuer",
+            "description": "Rescue your first Zapfish",
+            "tier": "bronze",
+            "unlocked": false
+        },
+        {
+            "groupName": "Base Game",
+            "name": "Fresh Out of the Oven",
+            "description": "Defeat the Octo Oven",
+            "tier": "silver",
+            "unlocked": false
+        },
+        {
+            "groupName": "Base Game",
+            "name": "Showdown Settled",
+            "description": "Defeat the Octo Samurai",
+            "tier": "silver",
+            "unlocked": false
+        },
+        {
+            "groupName": "Base Game",
+            "name": "Neo Nemesis",
+            "description": "Defeat the Neo Octostomp",
+            "tier": "silver",
+            "unlocked": false
+        },
+        {
+            "groupName": "Base Game",
+            "name": "Squeaky Clean",
+            "description": "Defeat the Octo Shower",
+            "tier": "silver",
+            "unlocked": false
+        },
+        {
+            "groupName": "Base Game",
+            "name": "Bomb Rush Blush",
+            "description": "Defeat the Octobot King II and free Callie",
+            "tier": "gold",
+            "unlocked": false
+        },
+        {
+            "groupName": "Base Game",
+            "name": "Hero Suit Complete",
+            "description": "Complete Octo Canyon and unlock the full Hero Suit replica gear",
+            "tier": "gold",
+            "unlocked": false
+        },
+        {
+            "groupName": "Base Game",
+            "name": "Full Arsenal",
+            "description": "Unlock all 9 Hero Weapons in Octo Canyon",
+            "tier": "gold",
+            "unlocked": false
+        },
+        {
+            "groupName": "Base Game",
+            "name": "One Weapon Wonder",
+            "description": "Clear every Octo Canyon level using only one weapon to earn its Hero Weapon Replica",
+            "tier": "silver",
+            "unlocked": false
+        },
+        {
+            "groupName": "Base Game",
+            "name": "Master of All Trades",
+            "description": "Clear every Octo Canyon level with each of the 9 Hero Weapons, earning every Hero Weapon Replica",
+            "tier": "gold",
+            "unlocked": false
+        },
+        {
+            "groupName": "Base Game",
+            "name": "Fully Enhanced",
+            "description": "Use Sardinium and Power Eggs to fully upgrade a piece of Hero Mode gear",
+            "tier": "silver",
+            "unlocked": false
+        },
+        {
+            "groupName": "Base Game",
+            "name": "A Piece of the Past",
+            "description": "Find your first Sunken Scroll",
+            "tier": "bronze",
+            "unlocked": false
+        },
+        {
+            "groupName": "Base Game",
+            "name": "Squid Historian",
+            "description": "Find all 32 Sunken Scrolls (27 in stages, 5 in the Octo Canyon overworld)",
+            "tier": "gold",
+            "unlocked": false
+        },
+        {
+            "groupName": "Octo Expansion",
+            "name": "Down the Drain",
+            "description": "Wake up as Agent 8 in the Deepsea Metro",
+            "tier": "bronze",
+            "unlocked": false
+        },
+        {
+            "groupName": "Octo Expansion",
+            "name": "First Thang",
+            "description": "Collect your first thang",
+            "tier": "bronze",
+            "unlocked": false
+        },
+        {
+            "groupName": "Octo Expansion",
+            "name": "All Four Thangs",
+            "description": "Collect all four thangs",
+            "tier": "silver",
+            "unlocked": false
+        },
+        {
+            "groupName": "Octo Expansion",
+            "name": "Redux Defeated",
+            "description": "Defeat Octostomp Redux",
+            "tier": "silver",
+            "unlocked": false
+        },
+        {
+            "groupName": "Octo Expansion",
+            "name": "Toastmaster Down",
+            "description": "Defeat Octo Oven XXL",
+            "tier": "silver",
+            "unlocked": false
+        },
+        {
+            "groupName": "Octo Expansion",
+            "name": "Whack-Fu Champion",
+            "description": "Defeat the Revenge of Octo Samurai",
+            "tier": "silver",
+            "unlocked": false
+        },
+        {
+            "groupName": "Octo Expansion",
+            "name": "Jets Cooled",
+            "description": "Defeat Octo Shower Supreme",
+            "tier": "silver",
+            "unlocked": false
+        },
+        {
+            "groupName": "Octo Expansion",
+            "name": "Turn on Yourself",
+            "description": "Defeat the brainwashed Agent 3",
+            "tier": "gold",
+            "unlocked": false
+        },
+        {
+            "groupName": "Octo Expansion",
+            "name": "Turf War of the Deep",
+            "description": "Defeat Commander Tartar and complete the Octo Expansion",
+            "tier": "gold",
+            "unlocked": false
+        },
+        {
+            "groupName": "Octo Expansion",
+            "name": "Inner Reflection",
+            "description": "Defeat Inner Agent 3 in the optional secret boss battle",
+            "tier": "gold",
+            "unlocked": false
+        },
+        {
+            "groupName": "Octo Expansion",
+            "name": "Metro Master",
+            "description": "Clear all 80 stations of the Deepsea Metro",
+            "tier": "gold",
+            "unlocked": false
+        },
+        {
+            "groupName": "Octo Expansion",
+            "name": "Mem Cake Collector",
+            "description": "Collect every mem cake in the Octo Expansion",
+            "tier": "gold",
+            "unlocked": false
+        },
+        {
+            "groupName": "Octo Expansion",
+            "name": "Medal Hoarder",
+            "description": "Collect all 10 mem medals",
+            "tier": "silver",
+            "unlocked": false
+        },
+        {
+            "groupName": "Octo Expansion",
+            "name": "Memory Lane",
+            "description": "View every chat log from Pearl, Marina, and Cap'n Cuttlefish",
+            "tier": "silver",
+            "unlocked": false
+        },
+        {
+            "groupName": "Octo Expansion",
+            "name": "CQ Millionaire",
+            "description": "Reach 30,000 CQ Points",
+            "tier": "silver",
+            "unlocked": false
+        }
+    ]
+}
