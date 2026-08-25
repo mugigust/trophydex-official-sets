@@ -2,6 +2,11 @@
     "schemaVersion": 1,
     "platforms": [
         {
+            "platform_id": "nes",
+            "platform_title": "NES",
+            "cover_art_url": "https://i.imgur.com/5WERk7r.png"
+        },
+        {
             "platform_id": "nintendo-switch",
             "platform_title": "Nintendo Switch",
             "cover_art_url": "https://i.imgur.com/jTmyXxd.png"
