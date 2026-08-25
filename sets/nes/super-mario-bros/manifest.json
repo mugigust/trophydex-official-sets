@@ -1,0 +1,295 @@
+{
+  "schemaVersion": 1,
+  "title": "Super Mario Bros.",
+  "coverUrl": "https://i.imgur.com/CgaXtAT.png",
+  "trophies": [
+    {
+      "id": "super-mario-bros-master",
+      "name": "Super Mario Master",
+      "description": "Earn every other trophy.",
+      "tier": "platinum",
+      "group": null,
+      "icon": null,
+      "order": 1
+    },
+    {
+      "id": "world-1-complete",
+      "name": "First Steps",
+      "description": "Complete World 1.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 2
+    },
+    {
+      "id": "world-2-complete",
+      "name": "Two Much Trouble",
+      "description": "Complete World 2.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 3
+    },
+    {
+      "id": "world-3-complete",
+      "name": "Third Time's the Charm",
+      "description": "Complete World 3.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 4
+    },
+    {
+      "id": "world-4-complete",
+      "name": "Four the Win",
+      "description": "Complete World 4.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 5
+    },
+    {
+      "id": "world-5-complete",
+      "name": "High Five",
+      "description": "Complete World 5.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 6
+    },
+    {
+      "id": "world-6-complete",
+      "name": "Six Feet Under",
+      "description": "Complete World 6.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 7
+    },
+    {
+      "id": "world-7-complete",
+      "name": "Lucky Seven",
+      "description": "Complete World 7.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 8
+    },
+    {
+      "id": "world-8-complete",
+      "name": "The Final World",
+      "description": "Complete World 8.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 9
+    },
+    {
+      "id": "all-courses",
+      "name": "Course Correction",
+      "description": "Complete all 32 courses in the game.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 10
+    },
+    {
+      "id": "first-bowser",
+      "name": "Here We Go!",
+      "description": "Defeat Bowser in World 1-4.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 11
+    },
+    {
+      "id": "all-castles",
+      "name": "Castle Crusher",
+      "description": "Complete all eight Castle courses.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 12
+    },
+    {
+      "id": "real-bowser",
+      "name": "Not So Fast, Bowser",
+      "description": "Defeat the real Bowser in World 8-4 and rescue Princess Toadstool.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 13
+    },
+    {
+      "id": "coin-room",
+      "name": "Coin-Opener",
+      "description": "Enter a hidden Coin Room.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 14
+    },
+    {
+      "id": "cloud-area",
+      "name": "Head in the Clouds",
+      "description": "Enter a hidden Coin Heaven bonus area.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 15
+    },
+    {
+      "id": "warp-zone-1-2",
+      "name": "Warp Speed",
+      "description": "Use the Warp Zone in World 1-2 to travel to another world.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 16
+    },
+    {
+      "id": "warp-zone-4-2",
+      "name": "Take the Shortcut",
+      "description": "Use a Warp Zone in World 4-2 to travel to another world.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 17
+    },
+    {
+      "id": "all-warp-destinations",
+      "name": "Warp and Tear",
+      "description": "Use every legitimate Warp Zone destination available in the game.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 18
+    },
+    {
+      "id": "hidden-one-ups",
+      "name": "Extra Life of the Party",
+      "description": "Collect all ten 1-Up Mushrooms hidden throughout the game.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 19
+    },
+    {
+      "id": "all-secret-areas",
+      "name": "Pipe Dream",
+      "description": "Discover every hidden Coin Room, Coin Heaven, and other bonus area accessible through secret pipes.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 20
+    },
+    {
+      "id": "fireworks",
+      "name": "Fireworks Finale",
+      "description": "Finish a course with 1, 3, or 6 remaining in the timer to trigger the fireworks.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 21
+    },
+    {
+      "id": "top-of-flagpole",
+      "name": "Pole Position",
+      "description": "Reach the very top of a flagpole and earn the maximum flagpole bonus.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 22
+    },
+    {
+      "id": "one-hundred-coins",
+      "name": "Coin-Collector",
+      "description": "Collect 100 coins without losing a life.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 23
+    },
+    {
+      "id": "starman",
+      "name": "Super Star",
+      "description": "Defeat enemies while under the effect of a Super Star.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 24
+    },
+    {
+      "id": "fire-flower",
+      "name": "Hot Stuff",
+      "description": "Defeat an enemy using a Fire Flower.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 25
+    },
+    {
+      "id": "koopa-defeat",
+      "name": "Shell Shocked",
+      "description": "Defeat a Koopa Troopa by kicking its shell.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 26
+    },
+    {
+      "id": "hammer-bros",
+      "name": "Hammer Time",
+      "description": "Defeat a Hammer Bro.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 27
+    },
+    {
+      "id": "secret-1-up",
+      "name": "Up to No Good",
+      "description": "Collect a hidden 1-Up Mushroom from an invisible block.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 28
+    },
+    {
+      "id": "warp-without-skipping",
+      "name": "Shortcut to Completion",
+      "description": "Use a Warp Zone and still complete the game.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 29
+    },
+    {
+      "id": "no-warp-completion",
+      "name": "The Long Way Around",
+      "description": "Complete the game without using a Warp Zone.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 30
+    },
+    {
+      "id": "second-quest",
+      "name": "Hard Mode, Harder",
+      "description": "Unlock the second quest by completing the game.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 31
+    },
+    {
+      "id": "second-quest-complete",
+      "name": "A New Quest",
+      "description": "Complete the second quest.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 32
+    }
+  ]
+}
