@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "games": [
+    {
+      "game_id": "super-mario-brod",
+      "game_title": "Super Mario Bros.",
+      "cover_art_url": "https://i.imgur.com/CgaXtAT.png"
+    }
+  ]
+}
