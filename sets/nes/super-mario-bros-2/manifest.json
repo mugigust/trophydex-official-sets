@@ -1,0 +1,313 @@
+{
+  "schemaVersion": 1,
+  "title": "Super Mario Bros. 2",
+  "coverUrl": "https://i.imgur.com/oGZMCJz.png",
+  "trophies": [
+    {
+      "id": "super-mario-bros-2-master",
+      "name": "Super Mario Bros. 2 Master",
+      "description": "Earn every other trophy.",
+      "tier": "platinum",
+      "group": null,
+      "icon": null,
+      "order": 1
+    },
+    {
+      "id": "world-1-complete",
+      "name": "Dreams Take Root",
+      "description": "Complete World 1.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 2
+    },
+    {
+      "id": "world-2-complete",
+      "name": "Deserted Dreams",
+      "description": "Complete World 2.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 3
+    },
+    {
+      "id": "world-3-complete",
+      "name": "Water You Waiting For?",
+      "description": "Complete World 3.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 4
+    },
+    {
+      "id": "world-4-complete",
+      "name": "Cool Runnings",
+      "description": "Complete World 4.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 5
+    },
+    {
+      "id": "world-5-complete",
+      "name": "Sky High",
+      "description": "Complete World 5.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 6
+    },
+    {
+      "id": "world-6-complete",
+      "name": "Dune and Done",
+      "description": "Complete World 6.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 7
+    },
+    {
+      "id": "world-7-complete",
+      "name": "The Final Dream",
+      "description": "Complete World 7.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 8
+    },
+    {
+      "id": "all-areas",
+      "name": "Dream Come True",
+      "description": "Complete all 20 areas in the game.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 9
+    },
+    {
+      "id": "mouser-defeated",
+      "name": "Mouser No More",
+      "description": "Defeat Mouser.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 10
+    },
+    {
+      "id": "tryclyde-defeated",
+      "name": "Tryclyde and Seek",
+      "description": "Defeat Tryclyde.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 11
+    },
+    {
+      "id": "fryguy-defeated",
+      "name": "Fry Guy, Fried",
+      "description": "Defeat Fryguy.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 12
+    },
+    {
+      "id": "clawgrip-defeated",
+      "name": "Clawing Your Way Up",
+      "description": "Defeat Clawgrip.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 13
+    },
+    {
+      "id": "wart-defeated",
+      "name": "Wart's End",
+      "description": "Defeat Wart and complete the game.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 14
+    },
+    {
+      "id": "all-birdos",
+      "name": "Bird Watching",
+      "description": "Defeat every Birdo encountered throughout the game.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 15
+    },
+    {
+      "id": "all-bosses",
+      "name": "Bossing Around",
+      "description": "Defeat every boss in the game.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 16
+    },
+    {
+      "id": "first-mushroom",
+      "name": "Shroom for One",
+      "description": "Collect a hidden Mushroom from Sub-Space.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 17
+    },
+    {
+      "id": "all-mushrooms",
+      "name": "Mushroom Kingdom",
+      "description": "Collect all 37 hidden Mushroom power-ups in the game.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 18
+    },
+    {
+      "id": "first-one-up",
+      "name": "Life Finds a Way",
+      "description": "Collect a hidden 1-Up Mushroom.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 19
+    },
+    {
+      "id": "all-one-ups",
+      "name": "Extra Life of the Party",
+      "description": "Collect every hidden 1-Up Mushroom in the game.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 20
+    },
+    {
+      "id": "subspace",
+      "name": "Through the Looking Glass",
+      "description": "Enter Sub-Space using a Magic Potion.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 21
+    },
+    {
+      "id": "all-warp-zones",
+      "name": "Warp and Tear",
+      "description": "Use every Warp Zone in the game.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 22
+    },
+    {
+      "id": "world-4-warp",
+      "name": "Warp Fourward",
+      "description": "Use a Warp Zone to reach World 4.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 23
+    },
+    {
+      "id": "world-5-warp",
+      "name": "Warp Five",
+      "description": "Use a Warp Zone to reach World 5.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 24
+    },
+    {
+      "id": "world-6-warp",
+      "name": "Warp Six",
+      "description": "Use a Warp Zone to reach World 6.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 25
+    },
+    {
+      "id": "world-7-warp",
+      "name": "Warp to the Finish",
+      "description": "Use a Warp Zone to reach World 7.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 26
+    },
+    {
+      "id": "all-four-characters",
+      "name": "Four of a Kind",
+      "description": "Complete a level with Mario, Luigi, Toad, and Princess.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 27
+    },
+    {
+      "id": "character-recognition",
+      "name": "Star-Studded Cast",
+      "description": "Use all four characters exactly five times each and earn recognition for Mario, Luigi, Toad, and Princess at the ending.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 28
+    },
+    {
+      "id": "cherry-star",
+      "name": "Seeing Stars",
+      "description": "Collect five Cherries and obtain a Starman.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 29
+    },
+    {
+      "id": "pow-block",
+      "name": "Power Trip",
+      "description": "Use a POW Block to defeat multiple enemies at once.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 30
+    },
+    {
+      "id": "rocket",
+      "name": "Rocket Science",
+      "description": "Find and ride a Rocket to the next section of a level.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 31
+    },
+    {
+      "id": "magic-carpet",
+      "name": "Carpet Diem",
+      "description": "Ride a Pidgit's Magic Carpet.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 32
+    },
+    {
+      "id": "key-door",
+      "name": "Key to Success",
+      "description": "Carry a Key to a locked door and open it.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 33
+    },
+    {
+      "id": "enemy-throw",
+      "name": "Pick and Throw",
+      "description": "Defeat an enemy by picking up and throwing another enemy at it.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 34
+    }
+  ]
+}

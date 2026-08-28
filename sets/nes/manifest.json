@@ -5,6 +5,11 @@
       "game_id": "super-mario-bros",
       "game_title": "Super Mario Bros.",
       "cover_art_url": "https://i.imgur.com/CgaXtAT.png"
+    },
+    {
+      "game_id": "super-mario-bros-2",
+      "game_title": "Super Mario Bros. 2",
+      "cover_art_url": "https://i.imgur.com/oGZMCJz.png"
     }
   ]
 }
