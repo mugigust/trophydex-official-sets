@@ -1,0 +1,475 @@
+{
+  "schemaVersion": 1,
+  "title": "The Legend of Zelda: Breath of the Wild",
+  "coverUrl": "https://i.imgur.com/qgE2Yfz.png",
+  "trophies": [
+    {
+      "id": "breath-of-the-wild-master",
+      "name": "Breath of the Wild",
+      "description": "Earn every other trophy in the base game.",
+      "tier": "platinum",
+      "group": null,
+      "icon": null,
+      "order": 1
+    },
+    {
+      "id": "great-plateau",
+      "name": "Out of the Wild",
+      "description": "Complete the Great Plateau and leave for the rest of Hyrule.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 2
+    },
+    {
+      "id": "first-shrine",
+      "name": "Trial and Error",
+      "description": "Complete your first Shrine.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 3
+    },
+    {
+      "id": "all-shrines",
+      "name": "Shrine and Shine",
+      "description": "Complete all 120 Shrines in the base game.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 4
+    },
+    {
+      "id": "all-towers",
+      "name": "Tower Power",
+      "description": "Activate every Sheikah Tower in Hyrule.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 5
+    },
+    {
+      "id": "first-korok",
+      "name": "Ya Ha Ha!",
+      "description": "Find your first Korok Seed.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 6
+    },
+    {
+      "id": "all-koroks",
+      "name": "A Forest Full of Koroks",
+      "description": "Find all 900 Korok Seeds in Hyrule.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 7
+    },
+    {
+      "id": "map-complete",
+      "name": "The Whole Kingdom",
+      "description": "Reach 100% completion on the Hyrule map.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 8
+    },
+    {
+      "id": "divine-beast-vah-ruta",
+      "name": "Zora's Domain",
+      "description": "Free Divine Beast Vah Ruta.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 9
+    },
+    {
+      "id": "divine-beast-vah-rudania",
+      "name": "Goron of the Mountain",
+      "description": "Free Divine Beast Vah Rudania.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 10
+    },
+    {
+      "id": "divine-beast-vah-medoh",
+      "name": "Flight of the Rito",
+      "description": "Free Divine Beast Vah Medoh.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 11
+    },
+    {
+      "id": "divine-beast-vah-naboris",
+      "name": "Gerudo Champion",
+      "description": "Free Divine Beast Vah Naboris.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 12
+    },
+    {
+      "id": "four-divine-beasts",
+      "name": "Beastly Business",
+      "description": "Free all four Divine Beasts.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 13
+    },
+    {
+      "id": "master-sword",
+      "name": "Sword of the Hero",
+      "description": "Obtain the Master Sword.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 14
+    },
+    {
+      "id": "memories",
+      "name": "Memories of a Lost Age",
+      "description": "Recover all of Link's lost memories.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 15
+    },
+    {
+      "id": "hyrule-castle",
+      "name": "Castle in the Sky",
+      "description": "Reach Hyrule Castle.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 16
+    },
+    {
+      "id": "calamity-ganon",
+      "name": "Calamity's End",
+      "description": "Defeat Calamity Ganon.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 17
+    },
+    {
+      "id": "dark-beast-ganon",
+      "name": "The Beast Within",
+      "description": "Defeat Dark Beast Ganon and complete the main story.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 18
+    },
+    {
+      "id": "all-main-quests",
+      "name": "The Hero's Journey",
+      "description": "Complete every Main Quest in the base game.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 19
+    },
+    {
+      "id": "first-side-quest",
+      "name": "Helping Hand",
+      "description": "Complete your first Side Quest.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 20
+    },
+    {
+      "id": "all-side-quests",
+      "name": "Hyrule's Helping Hand",
+      "description": "Complete every Side Quest in the game.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 21
+    },
+    {
+      "id": "all-shrine-quests",
+      "name": "Quest for Knowledge",
+      "description": "Complete every Shrine Quest.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 22
+    },
+    {
+      "id": "hateno-village",
+      "name": "Home Sweet Home",
+      "description": "Purchase and fully furnish Link's house in Hateno Village.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 23
+    },
+    {
+      "id": "great-fairy-fountains",
+      "name": "Fairy Fine",
+      "description": "Discover all four Great Fairy Fountains.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 24
+    },
+    {
+      "id": "first-horse",
+      "name": "Horse Around",
+      "description": "Register a horse at a Stable.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 25
+    },
+    {
+      "id": "horse-gear",
+      "name": "Horse of a Different Color",
+      "description": "Equip a registered horse with a bridle and saddle.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 26
+    },
+    {
+      "id": "kilton-medals",
+      "name": "Monster Hunter",
+      "description": "Earn all three medals from Kilton by defeating every Hinox, Talus, and Molduga.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 27
+    },
+    {
+      "id": "all-armor",
+      "name": "Dressed for Adventure",
+      "description": "Obtain every piece of armor available in the base game.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 28
+    },
+    {
+      "id": "armor-upgrade",
+      "name": "Fashionably Upgraded",
+      "description": "Upgrade a piece of armor at a Great Fairy Fountain.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 29
+    },
+    {
+      "id": "fully-upgraded-armor",
+      "name": "Fairy Tailor",
+      "description": "Fully upgrade a complete armor set.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 30
+    },
+    {
+      "id": "ancient-gear",
+      "name": "Ancient Arsenal",
+      "description": "Obtain the Ancient Helm, Ancient Cuirass, and Ancient Greaves.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 31
+    },
+    {
+      "id": "champion-abilities",
+      "name": "A Champion's Blessing",
+      "description": "Obtain all four Champion abilities.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 32
+    },
+    {
+      "id": "korok-seed-hestu",
+      "name": "Hestu's Gift",
+      "description": "Expand your inventory for the first time by trading Korok Seeds with Hestu.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 33
+    },
+    {
+      "id": "hylian-shield",
+      "name": "Shield of Legend",
+      "description": "Obtain the Hylian Shield.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 34
+    },
+    {
+      "id": "hyrule-compendium",
+      "name": "Picturing Hyrule",
+      "description": "Complete the Hyrule Compendium.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 35
+    },
+    {
+      "id": "master-trials-begin",
+      "name": "Trial by Fire",
+      "description": "Enter the Trial of the Sword.",
+      "tier": "bronze",
+      "group": "The Master Trials",
+      "icon": null,
+      "order": 36
+    },
+    {
+      "id": "trial-of-the-sword",
+      "name": "Trial of the Sword",
+      "description": "Complete all 45 rooms of the Trial of the Sword and awaken the true power of the Master Sword.",
+      "tier": "gold",
+      "group": "The Master Trials",
+      "icon": null,
+      "order": 37
+    },
+    {
+      "id": "master-mode",
+      "name": "Master of the Wild",
+      "description": "Complete the main story in Master Mode.",
+      "tier": "gold",
+      "group": "The Master Trials",
+      "icon": null,
+      "order": 38
+    },
+    {
+      "id": "korok-mask",
+      "name": "A Masked Forest",
+      "description": "Obtain the Korok Mask.",
+      "tier": "silver",
+      "group": "The Master Trials",
+      "icon": null,
+      "order": 39
+    },
+    {
+      "id": "master-trials-armor",
+      "name": "Hero of Many Eras",
+      "description": "Collect all eight pieces of armor introduced in The Master Trials.",
+      "tier": "gold",
+      "group": "The Master Trials",
+      "icon": null,
+      "order": 40
+    },
+    {
+      "id": "travel-medallion",
+      "name": "Fast Travel, Literally",
+      "description": "Obtain the Travel Medallion.",
+      "tier": "bronze",
+      "group": "The Master Trials",
+      "icon": null,
+      "order": 41
+    },
+    {
+      "id": "heros-path",
+      "name": "Been There, Done That",
+      "description": "Unlock Hero's Path Mode.",
+      "tier": "bronze",
+      "group": "The Master Trials",
+      "icon": null,
+      "order": 42
+    },
+    {
+      "id": "champions-ballad-start",
+      "name": "The One-Hit Wonder",
+      "description": "Begin The Champions' Ballad and wield the One-Hit Obliterator.",
+      "tier": "bronze",
+      "group": "The Champions' Ballad",
+      "icon": null,
+      "order": 43
+    },
+    {
+      "id": "champions-ballad-shrines",
+      "name": "Divine Trials",
+      "description": "Complete all of the new Shrines introduced by The Champions' Ballad.",
+      "tier": "gold",
+      "group": "The Champions' Ballad",
+      "icon": null,
+      "order": 44
+    },
+    {
+      "id": "champion-trials",
+      "name": "A Champion's Trial",
+      "description": "Complete the four Champion's Ballad trials.",
+      "tier": "silver",
+      "group": "The Champions' Ballad",
+      "icon": null,
+      "order": 45
+    },
+    {
+      "id": "new-divine-beast",
+      "name": "A Fifth Divine Beast",
+      "description": "Complete the Divine Beast Tamer's Trials and enter the final dungeon of The Champions' Ballad.",
+      "tier": "gold",
+      "group": "The Champions' Ballad",
+      "icon": null,
+      "order": 46
+    },
+    {
+      "id": "monk-maz-koshia",
+      "name": "The Final Monk",
+      "description": "Defeat Monk Maz Koshia.",
+      "tier": "gold",
+      "group": "The Champions' Ballad",
+      "icon": null,
+      "order": 47
+    },
+    {
+      "id": "master-cycle-zero",
+      "name": "Master of the Cycle",
+      "description": "Obtain Master Cycle Zero.",
+      "tier": "gold",
+      "group": "The Champions' Ballad",
+      "icon": null,
+      "order": 48
+    },
+    {
+      "id": "champions-ballad-memories",
+      "name": "The Champions Remembered",
+      "description": "Recover all new memories revealed through The Champions' Ballad.",
+      "tier": "silver",
+      "group": "The Champions' Ballad",
+      "icon": null,
+      "order": 49
+    },
+    {
+      "id": "champions-ballad-armor",
+      "name": "A Hero's New Wardrobe",
+      "description": "Collect all nine pieces of armor introduced in The Champions' Ballad.",
+      "tier": "gold",
+      "group": "The Champions' Ballad",
+      "icon": null,
+      "order": 50
+    },
+    {
+      "id": "ancient-horse-gear",
+      "name": "Horse of the Ancients",
+      "description": "Obtain both pieces of Ancient Horse Gear.",
+      "tier": "silver",
+      "group": "The Champions' Ballad",
+      "icon": null,
+      "order": 51
+    },
+    {
+      "id": "champions-ballad-complete",
+      "name": "The Champions' Ballad",
+      "description": "Complete The Champions' Ballad and uncover the final memories of Zelda and the Champions.",
+      "tier": "gold",
+      "group": "The Champions' Ballad",
+      "icon": null,
+      "order": 52
+    }
+  ]
+}

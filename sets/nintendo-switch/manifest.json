@@ -5,6 +5,11 @@
       "game_id": "splatoon-2",
       "game_title": "Splatoon 2",
       "cover_art_url": "https://i.imgur.com/Ma1bmvh.png"
+    },
+    {
+      "game_id": "zelda-botw",
+      "game_title": "The Legend of Zelda: Breath of the Wild",
+      "cover_art_url": "https://i.imgur.com/qgE2Yfz.png"
     }
   ]
 }
