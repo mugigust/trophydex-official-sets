@@ -1,0 +1,349 @@
+{
+  "schemaVersion": 1,
+  "title": "Super Mario Bros. 3",
+  "coverUrl": "https://i.imgur.com/Dey1QQy.png",
+  "trophies": [
+    {
+      "id": "super-mario-bros-3-master",
+      "name": "Super Mario Bros. 3 Master",
+      "description": "Earn every other trophy.",
+      "tier": "platinum",
+      "group": null,
+      "icon": null,
+      "order": 1
+    },
+    {
+      "id": "world-1-complete",
+      "name": "Grass Is Greener",
+      "description": "Complete World 1.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 2
+    },
+    {
+      "id": "world-2-complete",
+      "name": "Deserted and Done",
+      "description": "Complete World 2.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 3
+    },
+    {
+      "id": "world-3-complete",
+      "name": "Making a Splash",
+      "description": "Complete World 3.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 4
+    },
+    {
+      "id": "world-4-complete",
+      "name": "Going Giant",
+      "description": "Complete World 4.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 5
+    },
+    {
+      "id": "world-5-complete",
+      "name": "Head in the Clouds",
+      "description": "Complete World 5.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 6
+    },
+    {
+      "id": "world-6-complete",
+      "name": "Ice to Meet You",
+      "description": "Complete World 6.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 7
+    },
+    {
+      "id": "world-7-complete",
+      "name": "Pipe Down",
+      "description": "Complete World 7.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 8
+    },
+    {
+      "id": "world-8-complete",
+      "name": "Dark and Stormy",
+      "description": "Complete World 8 and defeat Bowser.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 9
+    },
+    {
+      "id": "all-numbered-stages",
+      "name": "Stage Presence",
+      "description": "Complete every numbered stage in Worlds 1 through 8.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 10
+    },
+    {
+      "id": "all-fortresses",
+      "name": "Fortress of Solitude",
+      "description": "Complete every Fortress in the game.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 11
+    },
+    {
+      "id": "all-airships",
+      "name": "Ship Happens",
+      "description": "Complete every Koopa airship and defeat all seven Koopalings.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 12
+    },
+    {
+      "id": "all-world-8-fleets",
+      "name": "Fleet Street",
+      "description": "Complete the Tank, Navy, Air Force, and final Airship stages in World 8.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 13
+    },
+    {
+      "id": "all-map-enemies",
+      "name": "Map Busters",
+      "description": "Defeat every Hammer Brother, Boomerang Brother, Fire Brother, and Piranha Plant encountered on the world maps.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 14
+    },
+    {
+      "id": "bowser-defeated",
+      "name": "Down Goes the Koopa",
+      "description": "Defeat Bowser and rescue Princess Toadstool.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 15
+    },
+    {
+      "id": "warp-whistles",
+      "name": "Whistle While You Warp",
+      "description": "Collect all three Warp Whistles.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 16
+    },
+    {
+      "id": "warp-zone",
+      "name": "Warp Zone Traveler",
+      "description": "Enter the Warp Zone.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 17
+    },
+    {
+      "id": "all-white-mushroom-houses",
+      "name": "White-Hot Secrets",
+      "description": "Unlock and visit all seven White Mushroom Houses.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 18
+    },
+    {
+      "id": "white-mushroom-p-wings",
+      "name": "P-Wingman",
+      "description": "Obtain every P-Wing awarded by the White Mushroom Houses.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 19
+    },
+    {
+      "id": "white-mushroom-anchors",
+      "name": "Anchors Away",
+      "description": "Obtain every Anchor awarded by the White Mushroom Houses.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 20
+    },
+    {
+      "id": "treasure-ships",
+      "name": "Treasure Fleet",
+      "description": "Turn every possible Hammer Brother encounter into a Treasure Ship and clear it.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 21
+    },
+    {
+      "id": "card-game",
+      "name": "Card Sharp",
+      "description": "Complete the card-matching bonus game.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 22
+    },
+    {
+      "id": "slot-game",
+      "name": "Three of a Kind",
+      "description": "Match three identical symbols in the Spade Panel.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 23
+    },
+    {
+      "id": "three-mushrooms",
+      "name": "Mushroom Match",
+      "description": "Match three Mushrooms in the Spade Panel and earn the maximum Mushroom bonus.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 24
+    },
+    {
+      "id": "three-flowers",
+      "name": "Flower Power",
+      "description": "Match three Flowers in the Spade Panel and earn the maximum Flower bonus.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 25
+    },
+    {
+      "id": "three-stars",
+      "name": "Star Struck",
+      "description": "Match three Stars in the Spade Panel and earn the maximum Star bonus.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 26
+    },
+    {
+      "id": "frog-suit",
+      "name": "Frog in His Throat",
+      "description": "Complete a level while wearing the Frog Suit.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 27
+    },
+    {
+      "id": "tanooki-suit",
+      "name": "Tanooki Trouble",
+      "description": "Complete a level while wearing the Tanooki Suit.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 28
+    },
+    {
+      "id": "hammer-suit",
+      "name": "Hammer Time",
+      "description": "Complete a level while wearing the Hammer Suit.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 29
+    },
+    {
+      "id": "kuribos-shoe",
+      "name": "Walk a Mile",
+      "description": "Find and ride Kuribo's Shoe.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 30
+    },
+    {
+      "id": "music-box",
+      "name": "Music to Their Ears",
+      "description": "Use a Music Box to put a Hammer Brother or Piranha Plant to sleep on the world map.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 31
+    },
+    {
+      "id": "hammer-item",
+      "name": "Hammer and Away",
+      "description": "Use a Hammer to destroy a rock on the world map and reveal a secret path.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 32
+    },
+    {
+      "id": "anchor-item",
+      "name": "Drop Anchor",
+      "description": "Use an Anchor to prevent a defeated Koopaling's airship from moving.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 33
+    },
+    {
+      "id": "kuribos-shoe-stage",
+      "name": "Shoe's the Way",
+      "description": "Use Kuribo's Shoe to defeat an enemy that cannot normally be defeated by Mario.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 34
+    },
+    {
+      "id": "special-ending-message",
+      "name": "Suit Yourself",
+      "description": "Defeat a Koopaling while wearing the Frog Suit, Tanooki Suit, or Hammer Suit and receive the special ending message.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 35
+    },
+    {
+      "id": "all-special-suits",
+      "name": "Suit Collection",
+      "description": "Obtain and use the Frog Suit, Tanooki Suit, and Hammer Suit.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 36
+    },
+    {
+      "id": "all-worlds-without-warp",
+      "name": "The Long Way Around",
+      "description": "Complete the game without using a Warp Whistle.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 37
+    },
+    {
+      "id": "super-mario-bros-3-complete",
+      "name": "King of the Eight Worlds",
+      "description": "Complete every required stage, fortress, special encounter, secret area, and major collectible in the game.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 38
+    }
+  ]
+}
