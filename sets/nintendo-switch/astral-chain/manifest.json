@@ -1,0 +1,421 @@
+{
+  "schemaVersion": 1,
+  "title": "Astral Chain",
+  "coverUrl": "https://i.imgur.com/w9DcU88.jpeg",
+  "trophies": [
+    {
+      "id": "astral-chain-master",
+      "name": "Astral Chain Master",
+      "description": "Earn every other trophy.",
+      "tier": "platinum",
+      "group": null,
+      "icon": null,
+      "order": 1
+    },
+    {
+      "id": "finish-file-01",
+      "name": "Rookie Officer",
+      "description": "Complete File 01 and join Neuron.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 2
+    },
+    {
+      "id": "sword-legion",
+      "name": "Sword of Neuron",
+      "description": "Obtain the Sword Legion.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 3
+    },
+    {
+      "id": "arrow-legion",
+      "name": "Point and Shoot",
+      "description": "Obtain the Arrow Legion.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 4
+    },
+    {
+      "id": "arm-legion",
+      "name": "Strong Arm of the Law",
+      "description": "Obtain the Arm Legion.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 5
+    },
+    {
+      "id": "beast-legion",
+      "name": "Who Let the Legion Out",
+      "description": "Obtain the Beast Legion.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 6
+    },
+    {
+      "id": "axe-legion",
+      "name": "Axe Me Anything",
+      "description": "Obtain the Axe Legion.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 7
+    },
+    {
+      "id": "finish-file-06",
+      "name": "Halfway to the Truth",
+      "description": "Complete File 06.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 8
+    },
+    {
+      "id": "jena-anderson",
+      "name": "Enemy of the State",
+      "description": "Defeat Jena Anderson.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 9
+    },
+    {
+      "id": "finish-file-09",
+      "name": "Point of No Return",
+      "description": "Complete File 09.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 10
+    },
+    {
+      "id": "finish-file-11",
+      "name": "Into the Astral Plane",
+      "description": "Complete File 11.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 11
+    },
+    {
+      "id": "beat-the-game",
+      "name": "Chain Breaker",
+      "description": "Complete the final File and finish the story.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 12
+    },
+    {
+      "id": "beat-ultimate",
+      "name": "Unbreakable",
+      "description": "Complete the game on Ultimate difficulty.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 13
+    },
+    {
+      "id": "all-files-s",
+      "name": "Straight S's",
+      "description": "Earn an S rank or higher on every File.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 14
+    },
+    {
+      "id": "first-s-rank",
+      "name": "S for Effort",
+      "description": "Earn an S rank on any File.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 15
+    },
+    {
+      "id": "s-plus-plus",
+      "name": "Above and Beyond",
+      "description": "Earn an S++ rank on any combat encounter.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 16
+    },
+    {
+      "id": "first-sync-attack",
+      "name": "In Sync",
+      "description": "Land a Sync Attack with your Legion.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 17
+    },
+    {
+      "id": "perfect-dodge",
+      "name": "Not Even Close",
+      "description": "Pull off a Perfect Dodge.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 18
+    },
+    {
+      "id": "perfect-block",
+      "name": "Rock Solid",
+      "description": "Pull off a Perfect Block with the Arm Legion.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 19
+    },
+    {
+      "id": "chain-bind",
+      "name": "Bound and Down",
+      "description": "Trap an enemy with a Chain Bind.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 20
+    },
+    {
+      "id": "chain-trip",
+      "name": "Trip Wire",
+      "description": "Trip a charging enemy with your Legion's chain.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 21
+    },
+    {
+      "id": "finish-with-every-legion",
+      "name": "Full Deck",
+      "description": "Land a finishing blow with each of the five Legions.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 22
+    },
+    {
+      "id": "legion-fusion",
+      "name": "Fusion Dance",
+      "description": "Perform a Legion Fusion special attack.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 23
+    },
+    {
+      "id": "max-one-legion",
+      "name": "Peak Performance",
+      "description": "Fully upgrade one Legion's ability tree.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 24
+    },
+    {
+      "id": "max-all-legions",
+      "name": "Legion Commander",
+      "description": "Fully upgrade the ability trees of all five Legions.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 25
+    },
+    {
+      "id": "iris-scan",
+      "name": "Through the IRIS",
+      "description": "Scan a clue using IRIS.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 26
+    },
+    {
+      "id": "first-red-case",
+      "name": "Case Closed",
+      "description": "Solve your first Red Case.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 27
+    },
+    {
+      "id": "all-red-cases",
+      "name": "Nothing but the Truth",
+      "description": "Solve every Red Case in the game.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 28
+    },
+    {
+      "id": "photo-order",
+      "name": "Say Cheese",
+      "description": "Complete a Photo Order side quest.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 29
+    },
+    {
+      "id": "lost-and-found",
+      "name": "Lost and Found",
+      "description": "Return a lost item to its owner.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 30
+    },
+    {
+      "id": "all-blue-cases",
+      "name": "Community Service",
+      "description": "Complete every optional Blue Case.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 31
+    },
+    {
+      "id": "first-cat",
+      "name": "Here, Kitty",
+      "description": "Rescue your first stray cat.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 32
+    },
+    {
+      "id": "all-cats",
+      "name": "Cat Herder",
+      "description": "Rescue all 30 stray cats and reunite them at the station.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 33
+    },
+    {
+      "id": "first-toilet",
+      "name": "Bathroom Break",
+      "description": "Clean your first toilet.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 34
+    },
+    {
+      "id": "all-toilets",
+      "name": "Flush With Success",
+      "description": "Clean every toilet in the game.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 35
+    },
+    {
+      "id": "lappy-suit",
+      "name": "Lappy's Biggest Fan",
+      "description": "Unlock and equip the Lappy mascot suit.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 36
+    },
+    {
+      "id": "all-gene-codes",
+      "name": "Gene Splicer",
+      "description": "Collect every Legion Gene Code.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 37
+    },
+    {
+      "id": "all-materials",
+      "name": "Master Collector",
+      "description": "Obtain every material type in the item list.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 38
+    },
+    {
+      "id": "adopt-dog",
+      "name": "Good Boy",
+      "description": "Take care of the station dog.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 39
+    },
+    {
+      "id": "photo-mode",
+      "name": "Picture This",
+      "description": "Take a picture using Photo Mode.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 40
+    },
+    {
+      "id": "buy-costume",
+      "name": "Dressed to Kill",
+      "description": "Purchase an alternate costume.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 41
+    },
+    {
+      "id": "max-order-rank",
+      "name": "Top of the Class",
+      "description": "Reach the highest Neuron officer rank.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 42
+    },
+    {
+      "id": "spend-gp",
+      "name": "Big Spender",
+      "description": "Spend 100,000 Gene Points at the shop.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 43
+    },
+    {
+      "id": "no-damage-boss",
+      "name": "Flawless Takedown",
+      "description": "Defeat a boss without taking any damage.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 44
+    },
+    {
+      "id": "all-figures",
+      "name": "Figure It Out",
+      "description": "Collect every figure for the collection room.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 45
+    },
+    {
+      "id": "beat-secret-boss",
+      "name": "Ultimate Challenge",
+      "description": "Defeat the game's hidden superboss.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 46
+    }
+  ]
+}
