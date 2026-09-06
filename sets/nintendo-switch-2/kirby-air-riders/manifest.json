@@ -4,6 +4,15 @@
   "coverUrl": "https://i.imgur.com/c1W4qLQ.png",
   "trophies": [
     {
+      "id": "kirby-air-riders-master",
+      "name": "Kirby Air Riders Master",
+      "description": "Earn every other trophy.",
+      "tier": "platinum",
+      "group": null,
+      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/kirby-air-riders-master.png",
+      "order": 52
+    },
+    {
       "id": "airborne-beginner",
       "name": "First Flight",
       "description": "Complete your first Air Ride race.",
@@ -461,15 +470,6 @@
       "group": "Completion",
       "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/fully-completed.png",
       "order": 51
-    },
-    {
-      "id": "kirby-air-riders-master",
-      "name": "Kirby Air Riders Master",
-      "description": "Earn every other trophy.",
-      "tier": "platinum",
-      "group": null,
-      "icon": "https://raw.githubusercontent.com/mugigust/trophydex-official-sets/main/icons/kirby-air-riders/kirby-air-riders-master.png",
-      "order": 52
     }
   ]
 }
