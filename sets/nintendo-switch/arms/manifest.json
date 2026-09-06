@@ -1,0 +1,430 @@
+{
+  "schemaVersion": 1,
+  "title": "ARMS",
+  "coverUrl": "https://i.imgur.com/mitiD7j.jpeg",
+  "trophies": [
+    {
+      "id": "arms-master",
+      "name": "ARMS Master",
+      "description": "Earn every other trophy.",
+      "tier": "platinum",
+      "group": null,
+      "icon": null,
+      "order": 1
+    },
+    {
+      "id": "first-win",
+      "name": "Reaching Out",
+      "description": "Win your first match in any mode.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 2
+    },
+    {
+      "id": "first-grab",
+      "name": "Hands On",
+      "description": "Grab an opponent during a match.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 3
+    },
+    {
+      "id": "first-charge",
+      "name": "Fully Charged",
+      "description": "Land a hit with charged ARMS.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 4
+    },
+    {
+      "id": "first-rush",
+      "name": "Rush Hour",
+      "description": "Finish an opponent with a Rush attack.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 5
+    },
+    {
+      "id": "counterpunch",
+      "name": "Counterpuncher",
+      "description": "Knock away an incoming attack with a well-timed punch.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 6
+    },
+    {
+      "id": "ringout",
+      "name": "Out of Bounds",
+      "description": "Win a match by knocking your opponent out of the ring.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 7
+    },
+    {
+      "id": "stage-hazard",
+      "name": "Home Court Disadvantage",
+      "description": "Defeat an opponent using a stage hazard.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 8
+    },
+    {
+      "id": "grand-prix-1",
+      "name": "Rookie Circuit",
+      "description": "Clear Grand Prix on Level 1.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 9
+    },
+    {
+      "id": "grand-prix-4",
+      "name": "Ranked and Ready",
+      "description": "Clear Grand Prix on Level 4 to unlock Ranked Match.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 10
+    },
+    {
+      "id": "beat-hedlok",
+      "name": "Heads Will Roll",
+      "description": "Defeat Hedlok in Grand Prix.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 11
+    },
+    {
+      "id": "beat-max-brass",
+      "name": "Commissioner's Cut",
+      "description": "Defeat Max Brass at the end of Grand Prix.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 12
+    },
+    {
+      "id": "grand-prix-7",
+      "name": "Grand Champion",
+      "description": "Clear Grand Prix on Level 7.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 13
+    },
+    {
+      "id": "beat-dr-coyle",
+      "name": "Doctor's Orders",
+      "description": "Defeat Dr. Coyle on Level 7 and see the true ending.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 14
+    },
+    {
+      "id": "flawless-gp-match",
+      "name": "Untouchable",
+      "description": "Win a Grand Prix match without taking any damage.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 15
+    },
+    {
+      "id": "grand-prix-all-fighters",
+      "name": "Fifteen and Oh",
+      "description": "Clear Grand Prix on Level 7 with every fighter.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 16
+    },
+    {
+      "id": "win-ten-fighters",
+      "name": "Roster Rotation",
+      "description": "Win a match with each of the ten starting fighters.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 17
+    },
+    {
+      "id": "unlock-max-brass",
+      "name": "Muscle Memory",
+      "description": "Unlock Max Brass as a playable fighter.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 18
+    },
+    {
+      "id": "unlock-springtron",
+      "name": "Spring Cleaning",
+      "description": "Unlock Springtron as a playable fighter.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 19
+    },
+    {
+      "id": "unlock-dr-coyle",
+      "name": "Fourth Arm",
+      "description": "Unlock Dr. Coyle as a playable fighter.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 20
+    },
+    {
+      "id": "win-all-fighters",
+      "name": "Everybody Gets a Turn",
+      "description": "Win a match with all fifteen fighters.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 21
+    },
+    {
+      "id": "first-new-arm",
+      "name": "Arms Dealer",
+      "description": "Claim your first new ARM from the Get ARMS minigame.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 22
+    },
+    {
+      "id": "all-arms-one-fighter",
+      "name": "Fully Equipped",
+      "description": "Collect every ARM for a single fighter.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 23
+    },
+    {
+      "id": "all-arms",
+      "name": "Armed to the Teeth",
+      "description": "Collect every ARM for every fighter.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 24
+    },
+    {
+      "id": "mismatched-arms",
+      "name": "Odd Pair",
+      "description": "Win a match using two different ARMS at once.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 25
+    },
+    {
+      "id": "skillshot-100",
+      "name": "Sharpshooter",
+      "description": "Score 100 or more in a single round of Skillshot.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 26
+    },
+    {
+      "id": "win-vball",
+      "name": "Spring Serve",
+      "description": "Win a game of V-Ball.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 27
+    },
+    {
+      "id": "win-hoops",
+      "name": "Slam Dunk",
+      "description": "Win a game of Hoops.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 28
+    },
+    {
+      "id": "hedlok-scramble",
+      "name": "Six-Armed and Dangerous",
+      "description": "Win a round of Hedlok Scramble.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 29
+    },
+    {
+      "id": "clear-1-on-100",
+      "name": "One Against the World",
+      "description": "Defeat all opponents in 1-on-100.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 30
+    },
+    {
+      "id": "first-party-match",
+      "name": "Party Crasher",
+      "description": "Play a Party Match online.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 31
+    },
+    {
+      "id": "first-ranked-win",
+      "name": "Climbing the Ladder",
+      "description": "Win a Ranked Match.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 32
+    },
+    {
+      "id": "rank-5",
+      "name": "Contender",
+      "description": "Reach Rank 5 in Ranked Match.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 33
+    },
+    {
+      "id": "rank-10",
+      "name": "Main Eventer",
+      "description": "Reach Rank 10 in Ranked Match.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 34
+    },
+    {
+      "id": "rank-15",
+      "name": "World Champion",
+      "description": "Reach Rank 15, the highest rank in Ranked Match.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 35
+    },
+    {
+      "id": "party-crash",
+      "name": "Fashionably Late",
+      "description": "Take part in a Party Crash Bash event.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 36
+    },
+    {
+      "id": "first-badge",
+      "name": "Badge of Honor",
+      "description": "Earn your first badge from the Stats menu.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 37
+    },
+    {
+      "id": "fifty-badges",
+      "name": "Overachiever",
+      "description": "Earn 50 badges.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 38
+    },
+    {
+      "id": "all-badges",
+      "name": "Full Set",
+      "description": "Earn every badge in the game.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 39
+    },
+    {
+      "id": "thousand-punches",
+      "name": "Punch-Drunk",
+      "description": "Land 1,000 punches across all your matches.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 40
+    },
+    {
+      "id": "hundred-matches",
+      "name": "Seasoned Fighter",
+      "description": "Play 100 matches in any mode.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 41
+    },
+    {
+      "id": "hundred-wins",
+      "name": "Century of Victories",
+      "description": "Win 100 matches in any mode.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 42
+    },
+    {
+      "id": "free-for-all-win",
+      "name": "Last One Standing",
+      "description": "Win a three-fighter free-for-all match.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 43
+    },
+    {
+      "id": "team-win",
+      "name": "Tag Team",
+      "description": "Win a 2-on-2 team match.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 44
+    },
+    {
+      "id": "perfect-round",
+      "name": "Flawless Victory",
+      "description": "Win a round without losing any health.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 45
+    },
+    {
+      "id": "comeback-win",
+      "name": "Down to the Wire",
+      "description": "Win a match after your health drops below 10%.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 46
+    },
+    {
+      "id": "amiibo-scan",
+      "name": "Figure It Out",
+      "description": "Scan an ARMS amiibo.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 47
+    }
+  ]
+}
