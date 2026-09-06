@@ -2,6 +2,16 @@
   "schemaVersion": 1,
   "games": [
     {
+      "game_id": "pokemon-lets-go-eevee",
+      "game_title": "Pokémon: Let's Go, Eevee!",
+      "cover_art_url": "https://i.imgur.com/f1o9YZy.jpeg"
+    },
+    {
+      "game_id": "pokemon-lets-go-pikachu",
+      "game_title": "Pokémon: Let's Go, Pikachu!",
+      "cover_art_url": "https://i.imgur.com/HYi1XJc.jpeg"
+    },
+    {
       "game_id": "splatoon-2",
       "game_title": "Splatoon 2",
       "cover_art_url": "https://i.imgur.com/Ma1bmvh.png"

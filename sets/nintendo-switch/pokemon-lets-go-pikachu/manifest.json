@@ -1,0 +1,502 @@
+{
+  "schemaVersion": 1,
+  "title": "Pokémon: Let's Go, Pikachu!",
+  "coverUrl": "https://i.imgur.com/HYi1XJc.jpeg",
+  "trophies": [
+    {
+      "id": "platinum",
+      "name": "Gotta Catch 'Em All!",
+      "description": "Earn every other trophy.",
+      "tier": "platinum",
+      "group": null,
+      "icon": null,
+      "order": 1
+    },
+    {
+      "id": "pewter_city",
+      "name": "Rock Solid Start",
+      "description": "Defeat Brock and earn the Boulder Badge.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 2
+    },
+    {
+      "id": "cerulean_city",
+      "name": "Cascade of Progress",
+      "description": "Defeat Misty and earn the Cascade Badge.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 3
+    },
+    {
+      "id": "vermilion_city",
+      "name": "Surge Ahead",
+      "description": "Defeat Lt. Surge and earn the Thunder Badge.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 4
+    },
+    {
+      "id": "celadon_city",
+      "name": "A Leafy Victory",
+      "description": "Defeat Erika and earn the Rainbow Badge.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 5
+    },
+    {
+      "id": "fuchsia_city",
+      "name": "Poisoned Progress",
+      "description": "Defeat Koga and earn the Soul Badge.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 6
+    },
+    {
+      "id": "saffron_city",
+      "name": "Mind Over Matter",
+      "description": "Defeat Sabrina and earn the Marsh Badge.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 7
+    },
+    {
+      "id": "cinnabar_island",
+      "name": "Burning Ambition",
+      "description": "Defeat Blaine and earn the Volcano Badge.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 8
+    },
+    {
+      "id": "viridian_city",
+      "name": "The Final Badge",
+      "description": "Defeat Giovanni and earn the Earth Badge.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 9
+    },
+    {
+      "id": "elite_four",
+      "name": "Four Midway",
+      "description": "Defeat the Elite Four and become Champion.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 10
+    },
+    {
+      "id": "hall_of_fame",
+      "name": "Hall of Fame",
+      "description": "Enter the Hall of Fame.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 11
+    },
+    {
+      "id": "pokedex",
+      "name": "Kanto Complete",
+      "description": "Register all 150 original Kanto Pokémon in the Pokédex.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 12
+    },
+    {
+      "id": "secret_techniques",
+      "name": "Partner Power",
+      "description": "Learn every Secret Technique.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 13
+    },
+    {
+      "id": "chop_down",
+      "name": "Timber!",
+      "description": "Use Chop Down.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 14
+    },
+    {
+      "id": "sea_skim",
+      "name": "Make a Splash",
+      "description": "Use Sea Skim.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 15
+    },
+    {
+      "id": "sky_dash",
+      "name": "Up, Up, and Away",
+      "description": "Use Sky Dash.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 16
+    },
+    {
+      "id": "strong_push",
+      "name": "Push Comes to Shove",
+      "description": "Use Strong Push.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 17
+    },
+    {
+      "id": "light_up",
+      "name": "Let There Be Light",
+      "description": "Use Light Up.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 18
+    },
+    {
+      "id": "ride_pokemon",
+      "name": "Gotta Ride 'Em All",
+      "description": "Ride a Pokémon that can carry you through Kanto.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 19
+    },
+    {
+      "id": "team_rocket",
+      "name": "Blasting Off Again",
+      "description": "Defeat Team Rocket and put an end to their plans at Silph Co.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 20
+    },
+    {
+      "id": "giovanni",
+      "name": "The Boss Is Out",
+      "description": "Defeat Giovanni.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 21
+    },
+    {
+      "id": "legendary_birds",
+      "name": "Legendary Wings",
+      "description": "Catch Articuno, Zapdos, and Moltres.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 22
+    },
+    {
+      "id": "mewtwo",
+      "name": "Genetic Mystery",
+      "description": "Catch Mewtwo in Cerulean Cave.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 23
+    },
+    {
+      "id": "mega_evolution",
+      "name": "Mega Mayhem",
+      "description": "Mega Evolve a Pokémon for the first time.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 24
+    },
+    {
+      "id": "mega_stones",
+      "name": "Mega Collection",
+      "description": "Obtain every Mega Stone available in the game.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 25
+    },
+    {
+      "id": "alolan_trade",
+      "name": "From Alola with Love",
+      "description": "Obtain an Alolan Form through an in-game trade.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 26
+    },
+    {
+      "id": "alolan_forms",
+      "name": "Alola, Kanto!",
+      "description": "Obtain every Alolan Form available through in-game trades.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 27
+    },
+    {
+      "id": "catch_combo_10",
+      "name": "Combo Breaker",
+      "description": "Achieve a Catch Combo of 10 or more.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 28
+    },
+    {
+      "id": "catch_combo_31",
+      "name": "Chain Reaction",
+      "description": "Achieve a Catch Combo of 31 or more.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 29
+    },
+    {
+      "id": "rare_spawn",
+      "name": "Rare Encounter",
+      "description": "Catch a rare Pokémon that appears as a result of a Catch Combo.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 30
+    },
+    {
+      "id": "shiny",
+      "name": "A Shiny New Friend",
+      "description": "Catch a Shiny Pokémon.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 31
+    },
+    {
+      "id": "shiny_charm",
+      "name": "Shiny Hunter",
+      "description": "Obtain the Shiny Charm.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 32
+    },
+    {
+      "id": "candy",
+      "name": "Sweet Tooth",
+      "description": "Use Candy to power up a Pokémon.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 33
+    },
+    {
+      "id": "judge",
+      "name": "A Critical Eye",
+      "description": "Obtain the Judge function.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 34
+    },
+    {
+      "id": "evolution",
+      "name": "Evolution Revolution",
+      "description": "Evolve a Pokémon for the first time.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 35
+    },
+    {
+      "id": "trade",
+      "name": "Trade Secrets",
+      "description": "Trade a Pokémon with another Trainer.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 36
+    },
+    {
+      "id": "gym_rematch",
+      "name": "Back for More",
+      "description": "Defeat a Gym Leader in a rematch.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 37
+    },
+    {
+      "id": "elite_four_rematch",
+      "name": "The League Strikes Back",
+      "description": "Defeat the Elite Four in a rematch.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 38
+    },
+    {
+      "id": "red",
+      "name": "Seeing Red",
+      "description": "Defeat Red.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 39
+    },
+    {
+      "id": "green",
+      "name": "Green with Envy",
+      "description": "Defeat Green.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 40
+    },
+    {
+      "id": "master_trainer",
+      "name": "Master Class",
+      "description": "Defeat a Master Trainer.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 41
+    },
+    {
+      "id": "master_trainers_50",
+      "name": "Master of Many",
+      "description": "Defeat 50 Master Trainers.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 42
+    },
+    {
+      "id": "grand_master",
+      "name": "Grand Master",
+      "description": "Defeat the Master Trainers for the first 150 Pokémon and earn the Grand Master title.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 43
+    },
+    {
+      "id": "partner_moves",
+      "name": "Partner's Signature",
+      "description": "Teach Partner Pikachu every exclusive battle move available to it.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 44
+    },
+    {
+      "id": "partner_friendship",
+      "name": "Best Buds",
+      "description": "Raise your bond with Partner Pikachu and receive a special gift.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 45
+    },
+    {
+      "id": "follow_pokemon",
+      "name": "Right Beside You",
+      "description": "Have a Pokémon follow you outside its Poké Ball.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 46
+    },
+    {
+      "id": "fortune_teller",
+      "name": "Read My Future",
+      "description": "Use the fortune teller in Celadon City to influence Pokémon encounters.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 47
+    },
+    {
+      "id": "master_ball",
+      "name": "One Shot",
+      "description": "Obtain the Master Ball.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 48
+    },
+    {
+      "id": "gift_pokemon",
+      "name": "Gift Wrapped",
+      "description": "Obtain all Pokémon given as gifts by NPCs.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 49
+    },
+    {
+      "id": "forms",
+      "name": "Formidable Collection",
+      "description": "Register every obtainable Kanto species and obtainable alternate form in the Pokédex.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 50
+    },
+    {
+      "id": "rival",
+      "name": "Rivalry Renewed",
+      "description": "Defeat your rival in every required story battle.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 51
+    },
+    {
+      "id": "coach_trainers",
+      "name": "Coach's Nightmare",
+      "description": "Defeat every Coach Trainer in Kanto.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 52
+    },
+    {
+      "id": "trainer_classes",
+      "name": "Gotta Battle 'Em All",
+      "description": "Defeat every unique Trainer class encountered throughout the main adventure.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 53
+    },
+    {
+      "id": "kanto_explorer",
+      "name": "Kanto Explorer",
+      "description": "Use every Secret Technique to access every major area of Kanto.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 54
+    },
+    {
+      "id": "best_kanto_trainer",
+      "name": "Kanto's Very Best",
+      "description": "Complete the Kanto Pokédex, defeat the Pokémon League, conquer the major postgame challenges, and earn the Grand Master title.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 55
+    }
+  ]
+}
