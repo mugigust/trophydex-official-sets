@@ -2,6 +2,10 @@
   "schemaVersion": 1,
   "games": [
     {
+      "game_id": "clubhouse-games-51",
+      "game_title": "Clubhouse Games: 51 Worldwide Classics"
+    },
+    {
       "game_id": "pokemon-lets-go-eevee",
       "game_title": "Pokémon: Let's Go, Eevee!",
       "cover_art_url": "https://i.imgur.com/f1o9YZy.jpeg"

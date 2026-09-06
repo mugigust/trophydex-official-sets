@@ -1,0 +1,492 @@
+{
+  "schemaVersion": 1,
+  "title": "Clubhouse Games: 51 Worldwide Classics",
+  "trophies": [
+    {
+      "id": "clubhouse-games-51-master",
+      "name": "Clubhouse Legend",
+      "description": "Earn every other trophy.",
+      "tier": "platinum",
+      "group": null,
+      "icon": null,
+      "order": 1
+    },
+    {
+      "id": "first-game",
+      "name": "Take a Seat",
+      "description": "Play any of the 51 games for the first time.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 2
+    },
+    {
+      "id": "assign-favorites",
+      "name": "Playing Favourites",
+      "description": "Assign favourite games to your profile.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 3
+    },
+    {
+      "id": "change-figure",
+      "name": "Figure It Out",
+      "description": "Change the figure that represents you.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 4
+    },
+    {
+      "id": "read-trivia",
+      "name": "The More You Know",
+      "description": "Read a piece of trivia told by one of the figures.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 5
+    },
+    {
+      "id": "all-trivia",
+      "name": "Trivia Night",
+      "description": "Unlock the trivia for every figure in the collection.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 6
+    },
+    {
+      "id": "local-multiplayer",
+      "name": "Pull Up a Chair",
+      "description": "Play a game against another person in local multiplayer.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 7
+    },
+    {
+      "id": "guest-pass",
+      "name": "Bring a Guest",
+      "description": "Play a game with someone who is using the free Guest Pass.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 8
+    },
+    {
+      "id": "online-win",
+      "name": "Worldwide Classic",
+      "description": "Win a match against another player online.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 9
+    },
+    {
+      "id": "play-all-51",
+      "name": "Fully Booked",
+      "description": "Play all 51 games at least once.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 10
+    },
+    {
+      "id": "win-all-51",
+      "name": "Sweep the Table",
+      "description": "Win at least one match in all 51 games.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 11
+    },
+    {
+      "id": "beat-cpu",
+      "name": "Beginner's Luck",
+      "description": "Win a game against a CPU opponent.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 12
+    },
+    {
+      "id": "beat-advanced-cpu",
+      "name": "No Contest",
+      "description": "Beat an Advanced CPU opponent in any game.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 13
+    },
+    {
+      "id": "all-medals",
+      "name": "Clean Sweep",
+      "description": "Earn a Master medal in every game that awards one.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 14
+    },
+    {
+      "id": "all-card-games",
+      "name": "Card Sharp",
+      "description": "Win a match in all ten card games, from Hanafuda to War.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 15
+    },
+    {
+      "id": "all-board-games",
+      "name": "Board to Death",
+      "description": "Win a match in every board game, from Mancala to Mini Shogi.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 16
+    },
+    {
+      "id": "all-toy-sports",
+      "name": "Toy Story",
+      "description": "Win a match in every toy sport: Toy Tennis, Toy Soccer, Toy Curling, Toy Boxing, and Toy Baseball.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 17
+    },
+    {
+      "id": "mancala-win",
+      "name": "Sowing the Seeds",
+      "description": "Win a game of Mancala.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 18
+    },
+    {
+      "id": "dots-and-boxes-win",
+      "name": "Think Outside the Box",
+      "description": "Win a game of Dots and Boxes.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 19
+    },
+    {
+      "id": "four-in-a-row-win",
+      "name": "Line 'Em Up",
+      "description": "Win a game of Four-in-a-Row.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 20
+    },
+    {
+      "id": "nine-mens-morris-win",
+      "name": "Mill Time",
+      "description": "Form a mill and win a game of Nine Men's Morris.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 21
+    },
+    {
+      "id": "hex-win",
+      "name": "Bridge the Gap",
+      "description": "Connect your two sides to win a game of Hex.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 22
+    },
+    {
+      "id": "checkers-win",
+      "name": "King Me",
+      "description": "Crown a piece and win a game of Checkers.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 23
+    },
+    {
+      "id": "backgammon-win",
+      "name": "Double or Nothing",
+      "description": "Win a game of Backgammon after the stakes have been doubled.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 24
+    },
+    {
+      "id": "chess-win",
+      "name": "Checkmate in Style",
+      "description": "Win a game of Chess.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 25
+    },
+    {
+      "id": "chess-advanced",
+      "name": "Grandmaster Plan",
+      "description": "Defeat the Advanced CPU at Chess.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 26
+    },
+    {
+      "id": "shogi-win",
+      "name": "Promotion Earned",
+      "description": "Win a game of Shogi and a game of Mini Shogi.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 27
+    },
+    {
+      "id": "yacht-dice-yacht",
+      "name": "Full Sail",
+      "description": "Roll a Yacht in Yacht Dice.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 28
+    },
+    {
+      "id": "hit-and-blow-win",
+      "name": "Crack the Code",
+      "description": "Guess the hidden number to win a round of Hit and Blow.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 29
+    },
+    {
+      "id": "dominoes-win",
+      "name": "The Domino Effect",
+      "description": "Win a round of Dominoes.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 30
+    },
+    {
+      "id": "takoyaki-win",
+      "name": "Hot Off the Griddle",
+      "description": "Win a round of Takoyaki.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 31
+    },
+    {
+      "id": "pigs-tail-win",
+      "name": "Tall Tail",
+      "description": "Win a round of Pig's Tail.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 32
+    },
+    {
+      "id": "blackjack-21",
+      "name": "Natural Blackjack",
+      "description": "Be dealt a natural 21 in Blackjack.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 33
+    },
+    {
+      "id": "texas-holdem-all-in",
+      "name": "All In",
+      "description": "Win a hand of Texas Hold'em after going all in.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 34
+    },
+    {
+      "id": "president-win",
+      "name": "Hail to the Chief",
+      "description": "Finish a round of President in first place.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 35
+    },
+    {
+      "id": "hanafuda-koi-koi",
+      "name": "Koi-Koi!",
+      "description": "Call Koi-Koi and win the round in Hanafuda.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 36
+    },
+    {
+      "id": "riichi-mahjong-win",
+      "name": "Riichi Ippatsu",
+      "description": "Declare Riichi and win the hand in Riichi Mahjong.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 37
+    },
+    {
+      "id": "billiards-win",
+      "name": "Behind the Eight Ball",
+      "description": "Legally pocket the final ball to win a game of Billiards.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 38
+    },
+    {
+      "id": "bowling-strike",
+      "name": "Right Up My Alley",
+      "description": "Bowl a strike in Bowling.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 39
+    },
+    {
+      "id": "bowling-turkey",
+      "name": "Talkin' Turkey",
+      "description": "Bowl three strikes in a row in Bowling.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 40
+    },
+    {
+      "id": "darts-bullseye",
+      "name": "Bull's-Eye",
+      "description": "Hit the bullseye in Darts.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 41
+    },
+    {
+      "id": "golf-under-par",
+      "name": "Under Par",
+      "description": "Finish a round of Golf under par.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 42
+    },
+    {
+      "id": "toy-boxing-knockout",
+      "name": "Down for the Count",
+      "description": "Win a match of Toy Boxing by knockout.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 43
+    },
+    {
+      "id": "slot-cars-win",
+      "name": "Pole to Flag",
+      "description": "Lead every lap and win a race in Slot Cars.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 44
+    },
+    {
+      "id": "battle-tanks-win",
+      "name": "Tanks for Playing",
+      "description": "Win a round of Battle Tanks.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 45
+    },
+    {
+      "id": "team-tanks-win",
+      "name": "Tank You Very Much",
+      "description": "Win a round of Team Tanks alongside a partner.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 46
+    },
+    {
+      "id": "shooting-gallery-clear",
+      "name": "Sharpshooter",
+      "description": "Clear a stage of Shooting Gallery without missing a target.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 47
+    },
+    {
+      "id": "six-ball-puzzle-clear",
+      "name": "Six Appeal",
+      "description": "Clear a round of 6-Ball Puzzle.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 48
+    },
+    {
+      "id": "sliding-puzzle-clear",
+      "name": "Slide to the Finish",
+      "description": "Complete a Sliding Puzzle.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 49
+    },
+    {
+      "id": "mahjong-solitaire-clear",
+      "name": "Tile and Error",
+      "description": "Clear a full board of Mahjong Solitaire.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 50
+    },
+    {
+      "id": "klondike-solitaire-win",
+      "name": "Gold Rush",
+      "description": "Win a game of Klondike Solitaire.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 51
+    },
+    {
+      "id": "spider-solitaire-win",
+      "name": "Along Came a Spider",
+      "description": "Win a game of Spider Solitaire.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 52
+    },
+    {
+      "id": "piano-play",
+      "name": "Tickle the Ivories",
+      "description": "Play a tune on the bonus Piano.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 53
+    },
+    {
+      "id": "mosaic-mode",
+      "name": "Bigger Picture",
+      "description": "Play a game in Mosaic Mode across linked Nintendo Switch consoles.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 54
+    }
+  ]
+}
