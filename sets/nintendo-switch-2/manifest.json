@@ -2,6 +2,11 @@
   "schemaVersion": 1,
   "games": [
     {
+      "game_id": "donkey-kong-bananza",
+      "game_title": "Donkey Kong Bananza",
+      "cover_art_url": "https://i.imgur.com/GDAqYKg.jpeg"
+    },
+    {
       "game_id": "kirby-air-riders",
       "game_title": "Kirby Air Riders",
       "cover_art_url": "https://i.imgur.com/c1W4qLQ.png"

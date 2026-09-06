@@ -1,0 +1,538 @@
+{
+  "schemaVersion": 1,
+  "title": "Donkey Kong Bananza",
+  "coverUrl": "https://i.imgur.com/GDAqYKg.jpeg",
+  "trophies": [
+    {
+      "id": "donkey-kong-bananza-master",
+      "name": "Donkey Kong Bananza Master",
+      "description": "Earn every other trophy in the base game.",
+      "tier": "platinum",
+      "group": null,
+      "icon": null,
+      "order": 1
+    },
+    {
+      "id": "leave-ingot-isle",
+      "name": "Going Underground",
+      "description": "Smash your way off the surface and into the first Layer.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 2
+    },
+    {
+      "id": "meet-pauline",
+      "name": "The Kid Can Sing",
+      "description": "Team up with Pauline.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 3
+    },
+    {
+      "id": "first-bananza",
+      "name": "Go Bananza!",
+      "description": "Trigger your first Bananza transformation.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 4
+    },
+    {
+      "id": "kong-bananza",
+      "name": "Beast Mode",
+      "description": "Unlock Kong Bananza.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 5
+    },
+    {
+      "id": "ostrich-bananza",
+      "name": "Flight of the Kong",
+      "description": "Unlock Ostrich Bananza.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 6
+    },
+    {
+      "id": "zebra-bananza",
+      "name": "Hoof It",
+      "description": "Unlock Zebra Bananza.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 7
+    },
+    {
+      "id": "all-bananza",
+      "name": "Whole Zoo Crew",
+      "description": "Unlock every Bananza transformation.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 8
+    },
+    {
+      "id": "reach-canyon-layer",
+      "name": "Rock Bottom",
+      "description": "Reach the Canyon Layer.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 9
+    },
+    {
+      "id": "reach-forest-layer",
+      "name": "Out of the Woods",
+      "description": "Reach the Forest Layer.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 10
+    },
+    {
+      "id": "halfway-to-core",
+      "name": "Halfway Down",
+      "description": "Descend past the midpoint of the planet.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 11
+    },
+    {
+      "id": "reach-the-core",
+      "name": "To the Core",
+      "description": "Reach the planet's core.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 12
+    },
+    {
+      "id": "beat-the-game",
+      "name": "Diamond in the Rough",
+      "description": "Defeat the leader of VoidCo and finish the story.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 13
+    },
+    {
+      "id": "post-game-complete",
+      "name": "Deeper Still",
+      "description": "Complete the post-game story content.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 14
+    },
+    {
+      "id": "first-voidco-boss",
+      "name": "Corporate Takedown",
+      "description": "Defeat your first VoidCo boss.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 15
+    },
+    {
+      "id": "all-voidco-bosses",
+      "name": "Hostile Takeover",
+      "description": "Defeat every VoidCo boss.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 16
+    },
+    {
+      "id": "no-hit-boss",
+      "name": "Flawless Demolition",
+      "description": "Defeat any boss without taking damage.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 17
+    },
+    {
+      "id": "first-banandium-gem",
+      "name": "That's Bananas",
+      "description": "Collect your first Banandium Gem.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 18
+    },
+    {
+      "id": "hundred-gems",
+      "name": "Bunch of Bananas",
+      "description": "Collect 100 Banandium Gems.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 19
+    },
+    {
+      "id": "all-gems",
+      "name": "Top Banana",
+      "description": "Collect every Banandium Gem in the game.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 20
+    },
+    {
+      "id": "first-fossil",
+      "name": "Blast from the Past",
+      "description": "Dig up your first fossil.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 21
+    },
+    {
+      "id": "all-fossils-one-layer",
+      "name": "Layer Archaeologist",
+      "description": "Give an Elder every fossil from their Layer.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 22
+    },
+    {
+      "id": "all-fossils",
+      "name": "Natural History",
+      "description": "Collect every fossil across all Layers.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 23
+    },
+    {
+      "id": "skill-tree-branch",
+      "name": "Talent Scout",
+      "description": "Fully fill one branch of the skill tree.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 24
+    },
+    {
+      "id": "skill-tree-complete",
+      "name": "Fully Evolved",
+      "description": "Unlock every skill in the skill tree.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 25
+    },
+    {
+      "id": "first-outfit",
+      "name": "Dress for Success",
+      "description": "Buy an outfit for DK or Pauline.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 26
+    },
+    {
+      "id": "all-outfits",
+      "name": "Fashion Kong",
+      "description": "Collect every outfit.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 27
+    },
+    {
+      "id": "first-challenge",
+      "name": "Challenge Accepted",
+      "description": "Clear your first challenge course.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 28
+    },
+    {
+      "id": "ten-challenges",
+      "name": "Course Veteran",
+      "description": "Clear 10 challenge courses.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 29
+    },
+    {
+      "id": "all-challenges",
+      "name": "No Course Left Behind",
+      "description": "Clear every challenge course.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 30
+    },
+    {
+      "id": "surf-chunk",
+      "name": "Hang Ten",
+      "description": "Ride a torn-up chunk of terrain like a surfboard.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 31
+    },
+    {
+      "id": "throw-boulder",
+      "name": "Strike!",
+      "description": "Take out three enemies with a single thrown boulder.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 32
+    },
+    {
+      "id": "dig-deep",
+      "name": "Tunnel Vision",
+      "description": "Dig straight down through an entire Layer of terrain.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 33
+    },
+    {
+      "id": "destroy-everything",
+      "name": "Total Demolition",
+      "description": "Completely flatten a large structure.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 34
+    },
+    {
+      "id": "all-warp-gongs",
+      "name": "Fast Travel Network",
+      "description": "Activate every Warp Gong.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 35
+    },
+    {
+      "id": "co-op-play",
+      "name": "Two-Kong Combo",
+      "description": "Play in two-player co-op with a friend controlling Pauline.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 36
+    },
+    {
+      "id": "hidden-elder",
+      "name": "Elder Whisperer",
+      "description": "Track down a hidden Elder.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 37
+    },
+    {
+      "id": "secret-layer",
+      "name": "Off the Map",
+      "description": "Discover a secret Layer.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 38
+    },
+    {
+      "id": "max-health",
+      "name": "Tough as Bedrock",
+      "description": "Fully upgrade DK's health.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 39
+    },
+    {
+      "id": "hundred-percent",
+      "name": "Absolute Unit",
+      "description": "Reach 100% completion of the base game.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 40
+    },
+    {
+      "id": "dk-island-arrive",
+      "name": "Island Getaway",
+      "description": "Travel to DK Island and take a job mining for Void Kong.",
+      "tier": "bronze",
+      "group": "DK Island",
+      "icon": null,
+      "order": 41
+    },
+    {
+      "id": "dk-island-first-statue",
+      "name": "Sunken Treasure",
+      "description": "Pay Squawks to raise your first statue from the sea.",
+      "tier": "bronze",
+      "group": "DK Island",
+      "icon": null,
+      "order": 42
+    },
+    {
+      "id": "dk-island-gangplank-galleon",
+      "name": "Ahoy, K. Rool",
+      "description": "Explore King K. Rool's Gangplank Galleon on DK Island.",
+      "tier": "bronze",
+      "group": "DK Island",
+      "icon": null,
+      "order": 43
+    },
+    {
+      "id": "dk-island-quick-change-tie",
+      "name": "Dressed in a Hurry",
+      "description": "Solve the Banandiumtone puzzle on the Floating Islet to earn the Quick-Change Tie.",
+      "tier": "bronze",
+      "group": "DK Island",
+      "icon": null,
+      "order": 44
+    },
+    {
+      "id": "dk-island-photo-kongs",
+      "name": "Family Portrait",
+      "description": "Use Rambi to summon Diddy, Dixie, and Cranky Kong for a photo.",
+      "tier": "bronze",
+      "group": "DK Island",
+      "icon": null,
+      "order": 45
+    },
+    {
+      "id": "dk-island-first-bonus-stage",
+      "name": "Going for Gold",
+      "description": "Clear your first DK Island bonus stage.",
+      "tier": "bronze",
+      "group": "DK Island",
+      "icon": null,
+      "order": 46
+    },
+    {
+      "id": "dk-island-all-bonus-stages",
+      "name": "Six for Gold",
+      "description": "Clear all six bonus stages: Bouncing, Surfing, Quaking, Bombing, Smashing, and Blasting for Gold.",
+      "tier": "silver",
+      "group": "DK Island",
+      "icon": null,
+      "order": 47
+    },
+    {
+      "id": "dk-island-all-checkpoints",
+      "name": "Well Grounded",
+      "description": "Activate all ten DK Island checkpoints.",
+      "tier": "silver",
+      "group": "DK Island",
+      "icon": null,
+      "order": 48
+    },
+    {
+      "id": "dk-island-restart-piledriver",
+      "name": "Back in Business",
+      "description": "Earn 2,000 Rating Points so Void restarts the Pay-Dirt Piledriver.",
+      "tier": "silver",
+      "group": "DK Island",
+      "icon": null,
+      "order": 49
+    },
+    {
+      "id": "dk-island-all-statues",
+      "name": "The Gold Standard",
+      "description": "Collect all 85 statues and unlock the golden Donkey Kong and Pauline statue.",
+      "tier": "gold",
+      "group": "DK Island",
+      "icon": null,
+      "order": 50
+    },
+    {
+      "id": "dk-island-beat-void-kong",
+      "name": "Void Where Prohibited",
+      "description": "Reach 10,000 Rating Points and defeat Void Kong on DK Island.",
+      "tier": "gold",
+      "group": "DK Island",
+      "icon": null,
+      "order": 51
+    },
+    {
+      "id": "emerald-rush-first-run",
+      "name": "Rush Job",
+      "description": "Complete your first Emerald Rush run.",
+      "tier": "bronze",
+      "group": "Emerald Rush",
+      "icon": null,
+      "order": 52
+    },
+    {
+      "id": "emerald-rush-void-goal",
+      "name": "Meeting Quota",
+      "description": "Reach the Void Goal in an Emerald Rush run.",
+      "tier": "bronze",
+      "group": "Emerald Rush",
+      "icon": null,
+      "order": 53
+    },
+    {
+      "id": "emerald-rush-geyser",
+      "name": "Gusher",
+      "description": "Set off an Emerald geyser during a run.",
+      "tier": "bronze",
+      "group": "Emerald Rush",
+      "icon": null,
+      "order": 54
+    },
+    {
+      "id": "emerald-rush-first-perk",
+      "name": "Perk Up",
+      "description": "Unlock your first Emerald Perk.",
+      "tier": "bronze",
+      "group": "Emerald Rush",
+      "icon": null,
+      "order": 55
+    },
+    {
+      "id": "emerald-rush-event",
+      "name": "Limited-Time Offer",
+      "description": "Take part in a periodic Emerald Rush event.",
+      "tier": "bronze",
+      "group": "Emerald Rush",
+      "icon": null,
+      "order": 56
+    },
+    {
+      "id": "emerald-rush-all-perks",
+      "name": "Fully Perked",
+      "description": "Unlock every Emerald Perk.",
+      "tier": "silver",
+      "group": "Emerald Rush",
+      "icon": null,
+      "order": 57
+    },
+    {
+      "id": "emerald-rush-bananza-event",
+      "name": "Beast of the Rush",
+      "description": "Clear a Bananza-themed event such as Kong Bananza Returns or Elephant Bananza Stampede.",
+      "tier": "silver",
+      "group": "Emerald Rush",
+      "icon": null,
+      "order": 58
+    },
+    {
+      "id": "emerald-rush-all-events",
+      "name": "Event Horizon",
+      "description": "Complete every themed Emerald Rush challenge at least once.",
+      "tier": "gold",
+      "group": "Emerald Rush",
+      "icon": null,
+      "order": 59
+    }
+  ]
+}
