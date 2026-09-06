@@ -2,6 +2,11 @@
   "schemaVersion": 1,
   "games": [
     {
+      "game_id": "animal-crossing-new-horizons",
+      "game_title": "Animal Crossing: New Horizons",
+      "cover_art_url": "https://i.imgur.com/It4ZRQ5.jpeg"
+    },
+    {
       "game_id": "clubhouse-games-51",
       "game_title": "Clubhouse Games: 51 Worldwide Classics",
       "cover_art_url": "https://i.imgur.com/20p4faG.png"

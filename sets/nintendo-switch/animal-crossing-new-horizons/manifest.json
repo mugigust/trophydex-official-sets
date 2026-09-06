@@ -1,0 +1,448 @@
+{
+  "schemaVersion": 1,
+  "title": "Animal Crossing: New Horizons",
+  "coverUrl": "https://i.imgur.com/It4ZRQ5.jpeg",
+  "trophies": [
+    {
+      "id": "new-horizons-master",
+      "name": "New Horizons Master",
+      "description": "Earn every other trophy.",
+      "tier": "platinum",
+      "group": null,
+      "icon": null,
+      "order": 1
+    },
+    {
+      "id": "arrive-on-island",
+      "name": "Getaway Package",
+      "description": "Arrive on your deserted island with the Nook Inc. Getaway Package.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 2
+    },
+    {
+      "id": "first-tent",
+      "name": "Tent-ative Living",
+      "description": "Set up your tent and settle in as an island resident.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 3
+    },
+    {
+      "id": "invite-blathers",
+      "name": "Owl Be There",
+      "description": "Donate five creatures to Tom Nook to convince Blathers to visit.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 4
+    },
+    {
+      "id": "nooks-cranny",
+      "name": "Open for Business",
+      "description": "See Timmy and Tommy open Nook's Cranny.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 5
+    },
+    {
+      "id": "resident-services-building",
+      "name": "Services Rendered",
+      "description": "Upgrade Resident Services from a tent into a proper building.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 6
+    },
+    {
+      "id": "isabelle-arrives",
+      "name": "Secretary of State",
+      "description": "Welcome Isabelle to Resident Services.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 7
+    },
+    {
+      "id": "three-star-island",
+      "name": "Three-Star Review",
+      "description": "Raise your island's rating to three stars.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 8
+    },
+    {
+      "id": "kk-concert",
+      "name": "K.K. and Away We Go",
+      "description": "Host K.K. Slider's first live concert on your island.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 9
+    },
+    {
+      "id": "island-designer",
+      "name": "Terra-Firmed",
+      "description": "Unlock the Island Designer app and its terraforming permits.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 10
+    },
+    {
+      "id": "five-star-island",
+      "name": "Five-Star Paradise",
+      "description": "Raise your island's rating to a full five stars.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 11
+    },
+    {
+      "id": "golden-watering-can",
+      "name": "Watering It Down",
+      "description": "Receive the golden watering can recipe for reaching a five-star island.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 12
+    },
+    {
+      "id": "upgrade-house-fully",
+      "name": "Mortgage Accomplished",
+      "description": "Pay off every home loan and expand your house to its largest size.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 13
+    },
+    {
+      "id": "first-fossil",
+      "name": "Old Bones",
+      "description": "Have Blathers assess and accept your first fossil.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 14
+    },
+    {
+      "id": "all-fossils",
+      "name": "Boning Up",
+      "description": "Donate all 73 fossils to the Museum.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 15
+    },
+    {
+      "id": "first-bug",
+      "name": "Net Gains",
+      "description": "Catch and donate your first bug.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 16
+    },
+    {
+      "id": "all-bugs",
+      "name": "A Bug's Life",
+      "description": "Donate all 80 bugs to the Museum.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 17
+    },
+    {
+      "id": "first-fish",
+      "name": "Just Keep Fishing",
+      "description": "Catch and donate your first fish.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 18
+    },
+    {
+      "id": "all-fish",
+      "name": "Something Fishy",
+      "description": "Donate all 80 fish to the Museum.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 19
+    },
+    {
+      "id": "first-sea-creature",
+      "name": "Taking the Plunge",
+      "description": "Dive for and donate your first sea creature.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 20
+    },
+    {
+      "id": "all-sea-creatures",
+      "name": "The Deep End",
+      "description": "Donate all 40 sea creatures to the Museum.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 21
+    },
+    {
+      "id": "critterpedia-complete",
+      "name": "Critter Completionist",
+      "description": "Fill every page of the Critterpedia with bugs, fish, and sea creatures.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 22
+    },
+    {
+      "id": "art-wing",
+      "name": "Art of the Deal",
+      "description": "Open the Museum's art wing after buying a genuine piece from Redd.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 23
+    },
+    {
+      "id": "all-art",
+      "name": "Fine Art Connoisseur",
+      "description": "Donate all 43 works of art to the Museum.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 24
+    },
+    {
+      "id": "spot-fake-art",
+      "name": "Forgery Detected",
+      "description": "Correctly turn down a counterfeit piece on Redd's treasure trawler.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 25
+    },
+    {
+      "id": "catch-shark",
+      "name": "Jumping the Shark",
+      "description": "Catch any shark.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 26
+    },
+    {
+      "id": "catch-coelacanth",
+      "name": "Living Fossil",
+      "description": "Catch a coelacanth in the rain.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 27
+    },
+    {
+      "id": "first-tool",
+      "name": "Tool of the Trade",
+      "description": "Craft your first tool at a workbench.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 28
+    },
+    {
+      "id": "golden-tools",
+      "name": "Going for Gold",
+      "description": "Craft every one of the golden tools.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 29
+    },
+    {
+      "id": "learn-recipes",
+      "name": "DIY or Don't",
+      "description": "Learn 100 different DIY recipes.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 30
+    },
+    {
+      "id": "nook-miles-ticket",
+      "name": "Mystery Tour",
+      "description": "Redeem a Nook Miles Ticket to fly to a mystery island.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 31
+    },
+    {
+      "id": "ten-villagers",
+      "name": "Full House",
+      "description": "Have ten villagers living on your island at the same time.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 32
+    },
+    {
+      "id": "villager-photo",
+      "name": "Picture Perfect",
+      "description": "Receive a framed photo from one of your villagers.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 33
+    },
+    {
+      "id": "visit-island",
+      "name": "Passport Stamped",
+      "description": "Travel to another player's island through Dodo Airlines.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 34
+    },
+    {
+      "id": "hybrid-flower",
+      "name": "Cross-Pollinator",
+      "description": "Breed a hybrid-colored flower.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 35
+    },
+    {
+      "id": "all-fruit",
+      "name": "Fruit Salad",
+      "description": "Grow all six varieties of fruit on your island.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 36
+    },
+    {
+      "id": "shooting-stars",
+      "name": "Star Struck",
+      "description": "Wish on ten shooting stars during a single meteor shower.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 37
+    },
+    {
+      "id": "wasp-sting",
+      "name": "Unbee-lievable",
+      "description": "Get stung by a wasp swarm after shaking the wrong tree.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 38
+    },
+    {
+      "id": "seasonal-event",
+      "name": "Party Animal",
+      "description": "Take part in a seasonal event such as Bunny Day, Turkey Day, or Toy Day.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 39
+    },
+    {
+      "id": "tourney-trophy",
+      "name": "Trophy Case",
+      "description": "Earn a gold trophy at a Fishing Tourney or Bug-Off.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 40
+    },
+    {
+      "id": "hhp-join",
+      "name": "Paradise Found",
+      "description": "Board the ferry and join Lottie's Paradise Planning team.",
+      "tier": "bronze",
+      "group": "Happy Home Paradise",
+      "icon": null,
+      "order": 41
+    },
+    {
+      "id": "hhp-first-home",
+      "name": "Vacation Home Designer",
+      "description": "Complete your first vacation home for a client.",
+      "tier": "bronze",
+      "group": "Happy Home Paradise",
+      "icon": null,
+      "order": 42
+    },
+    {
+      "id": "hhp-partition",
+      "name": "Room Divider",
+      "description": "Use partition walls to build a multi-room layout in a single home.",
+      "tier": "bronze",
+      "group": "Happy Home Paradise",
+      "icon": null,
+      "order": 43
+    },
+    {
+      "id": "hhp-polishing",
+      "name": "Spit and Polish",
+      "description": "Learn the furniture polishing technique from Wardell.",
+      "tier": "bronze",
+      "group": "Happy Home Paradise",
+      "icon": null,
+      "order": 44
+    },
+    {
+      "id": "hhp-soundscape",
+      "name": "Sound Designer",
+      "description": "Set an ambient soundscape inside a vacation home.",
+      "tier": "bronze",
+      "group": "Happy Home Paradise",
+      "icon": null,
+      "order": 45
+    },
+    {
+      "id": "hhp-facilities",
+      "name": "Public Works",
+      "description": "Design every type of facility, from the school to the hospital.",
+      "tier": "silver",
+      "group": "Happy Home Paradise",
+      "icon": null,
+      "order": 46
+    },
+    {
+      "id": "hhp-villager-homes",
+      "name": "Home Improvement",
+      "description": "Remodel a villager's home on your own island using your Paradise Planning skills.",
+      "tier": "silver",
+      "group": "Happy Home Paradise",
+      "icon": null,
+      "order": 47
+    },
+    {
+      "id": "hhp-thirty-homes",
+      "name": "Thirty and Thriving",
+      "description": "Complete vacation homes for 30 different clients.",
+      "tier": "gold",
+      "group": "Happy Home Paradise",
+      "icon": null,
+      "order": 48
+    },
+    {
+      "id": "hhp-all-clients",
+      "name": "Island of Dreams",
+      "description": "Design a vacation home for every possible client, special characters included.",
+      "tier": "gold",
+      "group": "Happy Home Paradise",
+      "icon": null,
+      "order": 49
+    }
+  ]
+}
