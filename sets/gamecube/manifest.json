@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "games": [
+    {
+      "game_id": "star-fox-adventures",
+      "game_title": "Star Fox Adventures",
+      "cover_art_url": "https://i.ibb.co/fzFXCL9r/star-fox-adventures-icon.jpg"
+    }
+  ]
+}

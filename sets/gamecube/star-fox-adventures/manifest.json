@@ -1,0 +1,412 @@
+{
+  "schemaVersion": 1,
+  "title": "Star Fox Adventures",
+  "coverUrl": "https://i.ibb.co/fzFXCL9r/star-fox-adventures-icon.jpg",
+  "trophies": [
+    {
+      "id": "star-fox-adventures-master",
+      "name": "Star Fox Adventures Master",
+      "description": "Earn every other trophy.",
+      "tier": "platinum",
+      "group": null,
+      "icon": null,
+      "order": 1
+    },
+    {
+      "id": "land-on-sauria",
+      "name": "Planet of Dinosaurs",
+      "description": "Land on Dinosaur Planet and begin the hunt for General Scales.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 2
+    },
+    {
+      "id": "get-the-staff",
+      "name": "Staff of Legend",
+      "description": "Recover the magic Staff and learn to fight with it.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 3
+    },
+    {
+      "id": "first-krazoa-test",
+      "name": "Test Subject",
+      "description": "Pass your first Krazoa Test and claim a Krazoa Spirit.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 4
+    },
+    {
+      "id": "rescue-tricky",
+      "name": "A Boy and His Triceratops",
+      "description": "Free Prince Tricky from the SharpClaw and gain a companion.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 5
+    },
+    {
+      "id": "ice-mountain-race",
+      "name": "Downhill Racer",
+      "description": "Win the SnowHorn's race down Ice Mountain.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 6
+    },
+    {
+      "id": "cure-the-queen",
+      "name": "Doctor's Visit",
+      "description": "Cure Queen EarthWalker's illness.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 7
+    },
+    {
+      "id": "first-spellstone",
+      "name": "Stone Cold",
+      "description": "Recover your first SpellStone.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 8
+    },
+    {
+      "id": "galdon-defeated",
+      "name": "Hard to Swallow",
+      "description": "Defeat Galdon and retrieve the SpellStone he swallowed.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 9
+    },
+    {
+      "id": "cloudrunner-spellstone",
+      "name": "Fortress Infiltrator",
+      "description": "Escape CloudRunner Fortress with the SpellStone.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 10
+    },
+    {
+      "id": "redeye-king",
+      "name": "Eye See You",
+      "description": "Defeat the RedEye King in the Walled City.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 11
+    },
+    {
+      "id": "all-spellstones",
+      "name": "Set in Stone",
+      "description": "Recover all four SpellStones and power the Force Point Temples.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 12
+    },
+    {
+      "id": "drakor-defeated",
+      "name": "Dragon Slayer",
+      "description": "Defeat Drakor at Dragon Rock.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 13
+    },
+    {
+      "id": "general-scales",
+      "name": "Face-Off",
+      "description": "Confront General Scales at the Krazoa Palace.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 14
+    },
+    {
+      "id": "all-krazoa-spirits",
+      "name": "Spirited Away",
+      "description": "Return all six Krazoa Spirits to the Krazoa Palace.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 15
+    },
+    {
+      "id": "free-krystal",
+      "name": "Crystal Clear",
+      "description": "Free Krystal from the Krazoa Palace.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 16
+    },
+    {
+      "id": "defeat-andross",
+      "name": "Andross Undone",
+      "description": "Defeat Andross in the skies above Dinosaur Planet.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 17
+    },
+    {
+      "id": "beat-the-game",
+      "name": "Planet Restored",
+      "description": "Complete Star Fox Adventures.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 18
+    },
+    {
+      "id": "test-of-combat",
+      "name": "Trial by Battle",
+      "description": "Pass the Test of Combat.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 19
+    },
+    {
+      "id": "test-of-fear",
+      "name": "Nothing to Fear",
+      "description": "Pass the Test of Fear.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 20
+    },
+    {
+      "id": "test-of-strength",
+      "name": "Heavy Lifting",
+      "description": "Pass the Test of Strength.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 21
+    },
+    {
+      "id": "test-of-knowledge",
+      "name": "Know-It-All",
+      "description": "Pass the Test of Knowledge.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 22
+    },
+    {
+      "id": "test-of-skill",
+      "name": "Skill Check",
+      "description": "Pass the Test of Skill.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 23
+    },
+    {
+      "id": "test-of-observation",
+      "name": "Eyes Open",
+      "description": "Pass the Test of Observation.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 24
+    },
+    {
+      "id": "first-arwing-mission",
+      "name": "Back in the Cockpit",
+      "description": "Complete an Arwing flight mission between planet areas.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 25
+    },
+    {
+      "id": "all-arwing-missions",
+      "name": "Ace Pilot",
+      "description": "Complete every Arwing flight mission.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 26
+    },
+    {
+      "id": "arwing-no-damage",
+      "name": "Not a Scratch",
+      "description": "Finish an Arwing mission without taking any damage.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 27
+    },
+    {
+      "id": "tricky-find",
+      "name": "Fetch",
+      "description": "Use Tricky's Find command to uncover something buried.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 28
+    },
+    {
+      "id": "tricky-flame",
+      "name": "Flame On",
+      "description": "Use Tricky's Flame command to light a fire.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 29
+    },
+    {
+      "id": "tricky-stay",
+      "name": "Good Boy",
+      "description": "Use Tricky's Stay command to hold down a switch.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 30
+    },
+    {
+      "id": "all-tricky-commands",
+      "name": "Best in Show",
+      "description": "Teach Tricky every command.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 31
+    },
+    {
+      "id": "fire-blaster",
+      "name": "Trial by Fire",
+      "description": "Obtain the Fire Blaster upgrade for the Staff.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 32
+    },
+    {
+      "id": "rocket-boost",
+      "name": "Blast Off",
+      "description": "Obtain the Rocket Boost upgrade for the Staff.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 33
+    },
+    {
+      "id": "ground-quake",
+      "name": "Earthshaker",
+      "description": "Obtain the Ground Quake upgrade for the Staff.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 34
+    },
+    {
+      "id": "all-staff-upgrades",
+      "name": "Fully Loaded",
+      "description": "Collect every Staff upgrade.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 35
+    },
+    {
+      "id": "first-gold-bar",
+      "name": "Gold Rush",
+      "description": "Find your first Gold Bar.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 36
+    },
+    {
+      "id": "all-gold-bars",
+      "name": "Bar None",
+      "description": "Find all 50 Gold Bars and hand them to the WarpStone.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 37
+    },
+    {
+      "id": "max-hearts",
+      "name": "Whole Hearted",
+      "description": "Extend your energy meter to its maximum.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 38
+    },
+    {
+      "id": "bafomdad-holder",
+      "name": "Fairy Keeper",
+      "description": "Obtain the Bafomdad Holder to carry spare lives.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 39
+    },
+    {
+      "id": "full-scarabs",
+      "name": "Scarab Hoarder",
+      "description": "Carry the maximum number of Scarabs at once.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 40
+    },
+    {
+      "id": "feed-tricky",
+      "name": "Well Fed",
+      "description": "Feed Tricky a GrubTub fungus.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 41
+    },
+    {
+      "id": "lightfoot-village",
+      "name": "Tribal Trials",
+      "description": "Complete the LightFoot Village tests and earn the tribe's trust.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 42
+    },
+    {
+      "id": "making-of-video",
+      "name": "Behind the Scenes",
+      "description": "Unlock the Making of Star Fox Adventures video.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 43
+    },
+    {
+      "id": "sound-test",
+      "name": "DJ Fox",
+      "description": "Unlock the game's Sound Test.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 44
+    },
+    {
+      "id": "hundred-percent",
+      "name": "Sauria's Savior",
+      "description": "Reach 100% completion.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 45
+    }
+  ]
+}

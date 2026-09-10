@@ -2,6 +2,11 @@
     "schemaVersion": 1,
     "platforms": [
         {
+            "platform_id": "gamecube",
+            "platform_title": "GameCube",
+            "cover_art_url": "https://i.ibb.co/9krRSMGR/gamecube-icon.png"
+        },
+        {
             "platform_id": "nes",
             "platform_title": "NES",
             "cover_art_url": "https://i.imgur.com/5WERk7r.png"
