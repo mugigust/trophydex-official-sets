@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "games": [
+    {
+      "game_id": "zelda-oot",
+      "game_title": "The Legend of Zelda: Ocarina of Time",
+      "cover_art_url": "https://i.ibb.co/LXnxWwgw/ocarina-of-time-icon.png"
+    }
+  ]
+}

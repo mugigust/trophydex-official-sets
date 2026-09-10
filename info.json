@@ -7,6 +7,11 @@
             "cover_art_url": "https://i.ibb.co/9krRSMGR/gamecube-icon.png"
         },
         {
+            "platform_id": "n64",
+            "platform_title": "Nintendo 64",
+            "cover_art_url": "https://i.ibb.co/8gC4357J/nintendo-64-icon.png"
+        },
+        {
             "platform_id": "nes",
             "platform_title": "NES",
             "cover_art_url": "https://i.imgur.com/5WERk7r.png"

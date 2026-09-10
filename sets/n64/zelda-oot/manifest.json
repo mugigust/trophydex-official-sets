@@ -1,0 +1,475 @@
+{
+  "schemaVersion": 1,
+  "title": "The Legend of Zelda: Ocarina of Time",
+  "coverUrl": "https://i.ibb.co/LXnxWwgw/ocarina-of-time-icon.png",
+  "trophies": [
+    {
+      "id": "hero-of-time",
+      "name": "Hero of Time",
+      "description": "Earn every other trophy.",
+      "tier": "platinum",
+      "group": null,
+      "icon": null,
+      "order": 1
+    },
+    {
+      "id": "kokiri-sword",
+      "name": "A Cut Above",
+      "description": "Obtain the Kokiri Sword from the training hole.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 2
+    },
+    {
+      "id": "deku-tree-clear",
+      "name": "Root of the Problem",
+      "description": "Defeat Gohma and break the curse afflicting the Great Deku Tree.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 3
+    },
+    {
+      "id": "kokiris-emerald",
+      "name": "Green with Envy",
+      "description": "Receive the Kokiri's Emerald.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 4
+    },
+    {
+      "id": "meet-zelda",
+      "name": "Princess Pen Pal",
+      "description": "Meet Princess Zelda in the castle courtyard.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 5
+    },
+    {
+      "id": "king-dodongo",
+      "name": "Dodongo Dislikes Smoke",
+      "description": "Defeat King Dodongo in Dodongo's Cavern.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 6
+    },
+    {
+      "id": "gorons-ruby",
+      "name": "Blood Brother",
+      "description": "Receive the Goron's Ruby from Darunia.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 7
+    },
+    {
+      "id": "barinade",
+      "name": "Belly of the Beast",
+      "description": "Defeat Barinade inside Jabu-Jabu's Belly.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 8
+    },
+    {
+      "id": "zoras-sapphire",
+      "name": "Engagement Ring",
+      "description": "Receive Zora's Sapphire from Princess Ruto.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 9
+    },
+    {
+      "id": "all-spiritual-stones",
+      "name": "Three of a Kind",
+      "description": "Collect all three Spiritual Stones.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 10
+    },
+    {
+      "id": "ocarina-of-time",
+      "name": "Catch of the Day",
+      "description": "Catch the Ocarina of Time as Zelda flees Hyrule Castle.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 11
+    },
+    {
+      "id": "master-sword",
+      "name": "The Blade of Evil's Bane",
+      "description": "Draw the Master Sword from its pedestal in the Temple of Time.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 12
+    },
+    {
+      "id": "become-adult",
+      "name": "Seven Years Later",
+      "description": "Awaken as an adult after the Master Sword seals you away.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 13
+    },
+    {
+      "id": "get-epona",
+      "name": "Ride Like the Wind",
+      "description": "Win Epona from Ingo and leap the ranch fence to freedom.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 14
+    },
+    {
+      "id": "forest-temple",
+      "name": "Phantom Menace",
+      "description": "Defeat Phantom Ganon and awaken Saria as the Forest Sage.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 15
+    },
+    {
+      "id": "fire-temple",
+      "name": "Into the Fire",
+      "description": "Defeat Volvagia and awaken Darunia as the Fire Sage.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 16
+    },
+    {
+      "id": "dark-link",
+      "name": "Fighting Your Shadow",
+      "description": "Defeat Dark Link in the Water Temple.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 17
+    },
+    {
+      "id": "water-temple",
+      "name": "Water Under the Bridge",
+      "description": "Defeat Morpha and awaken Ruto as the Water Sage.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 18
+    },
+    {
+      "id": "shadow-temple",
+      "name": "Afraid of the Dark",
+      "description": "Defeat Bongo Bongo and awaken Impa as the Shadow Sage.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 19
+    },
+    {
+      "id": "spirit-temple",
+      "name": "Sands of Time",
+      "description": "Defeat Twinrova and awaken Nabooru as the Spirit Sage.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 20
+    },
+    {
+      "id": "all-medallions",
+      "name": "The Six Sages",
+      "description": "Collect all six Medallions.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 21
+    },
+    {
+      "id": "lens-of-truth",
+      "name": "Seeing Is Believing",
+      "description": "Obtain the Lens of Truth from the bottom of the well.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 22
+    },
+    {
+      "id": "biggoron-sword",
+      "name": "Big Trouble",
+      "description": "Complete the adult trading quest and claim Biggoron's Sword.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 23
+    },
+    {
+      "id": "ganons-trials",
+      "name": "Trial and Error",
+      "description": "Clear all six trials in Ganon's Castle.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 24
+    },
+    {
+      "id": "defeat-ganondorf",
+      "name": "The Evil King",
+      "description": "Defeat Ganondorf atop his crumbling castle.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 25
+    },
+    {
+      "id": "defeat-ganon",
+      "name": "Beast of Burden",
+      "description": "Defeat Ganon and seal him away with the Sages' help.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 26
+    },
+    {
+      "id": "first-song",
+      "name": "Play It Again",
+      "description": "Learn your first ocarina song.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 27
+    },
+    {
+      "id": "song-of-storms",
+      "name": "Making It Rain",
+      "description": "Learn the Song of Storms from the windmill man.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 28
+    },
+    {
+      "id": "warp-songs",
+      "name": "Fast Travel",
+      "description": "Learn all six warp songs taught by Sheik.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 29
+    },
+    {
+      "id": "all-songs",
+      "name": "Full Repertoire",
+      "description": "Learn every ocarina song, including the Scarecrow's Song.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 30
+    },
+    {
+      "id": "slingshot",
+      "name": "Seed of Doubt",
+      "description": "Obtain the Fairy Slingshot.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 31
+    },
+    {
+      "id": "hookshot",
+      "name": "Come Here Often?",
+      "description": "Obtain the Hookshot from Dampé's grave.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 32
+    },
+    {
+      "id": "fairy-bow",
+      "name": "Right on Target",
+      "description": "Obtain the Fairy Bow in the Forest Temple.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 33
+    },
+    {
+      "id": "megaton-hammer",
+      "name": "Hammer Time",
+      "description": "Obtain the Megaton Hammer in the Fire Temple.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 34
+    },
+    {
+      "id": "all-bottles",
+      "name": "Bottle Service",
+      "description": "Carry four bottles at once.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 35
+    },
+    {
+      "id": "magic-arrows",
+      "name": "Elemental",
+      "description": "Obtain both the Fire Arrow and the Ice Arrow.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 36
+    },
+    {
+      "id": "great-fairy-magic",
+      "name": "Fairy Godmother",
+      "description": "Receive a magic upgrade from a Great Fairy.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 37
+    },
+    {
+      "id": "biggest-bomb-bag",
+      "name": "Bigger Bang",
+      "description": "Upgrade the Bomb Bag to its largest size.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 38
+    },
+    {
+      "id": "first-skulltula",
+      "name": "Arachnophobia",
+      "description": "Destroy your first Gold Skulltula.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 39
+    },
+    {
+      "id": "fifty-skulltulas",
+      "name": "House Cleaning",
+      "description": "Destroy 50 Gold Skulltulas.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 40
+    },
+    {
+      "id": "all-skulltulas",
+      "name": "Spider's Web",
+      "description": "Destroy all 100 Gold Skulltulas and lift the curse on the cursed family.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 41
+    },
+    {
+      "id": "first-heart-piece",
+      "name": "Have a Heart",
+      "description": "Collect your first Piece of Heart.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 42
+    },
+    {
+      "id": "all-heart-pieces",
+      "name": "Whole Hearted",
+      "description": "Collect all 36 Pieces of Heart in Hyrule.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 43
+    },
+    {
+      "id": "big-poes",
+      "name": "Ghostbuster",
+      "description": "Sell 10 Big Poes to the Ghost Shop for the Giant's Wallet.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 44
+    },
+    {
+      "id": "magic-beans",
+      "name": "Jack and the Beanstalk",
+      "description": "Plant all ten Magic Beans across Hyrule.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 45
+    },
+    {
+      "id": "double-defense",
+      "name": "Tough Love",
+      "description": "Earn the Double Defense upgrade from a Great Fairy.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 46
+    },
+    {
+      "id": "fishing",
+      "name": "Catch and Release",
+      "description": "Reel in a fish at the Fishing Pond.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 47
+    },
+    {
+      "id": "horseback-archery",
+      "name": "Mounted Marksman",
+      "description": "Score 1,000 points at the Gerudo horseback archery range.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 48
+    },
+    {
+      "id": "dampe-race",
+      "name": "Grave Danger",
+      "description": "Beat Dampé's ghost in a race through his grave.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 49
+    },
+    {
+      "id": "bombchu-bowling",
+      "name": "Right Up the Alley",
+      "description": "Win a prize at the Bombchu Bowling Alley.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 50
+    },
+    {
+      "id": "scarecrow-song",
+      "name": "Pierre the Scarecrow",
+      "description": "Teach Bonooru the Scarecrow a song of your own.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 51
+    },
+    {
+      "id": "freeze-redead",
+      "name": "Sun's Song Serenade",
+      "description": "Freeze a ReDead in place by playing the Sun's Song.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 52
+    }
+  ]
+}
