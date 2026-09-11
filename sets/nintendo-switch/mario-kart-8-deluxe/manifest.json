@@ -1,0 +1,421 @@
+{
+  "schemaVersion": 1,
+  "title": "Mario Kart 8 Deluxe",
+  "coverUrl": "https://i.ibb.co/qLcPkPQp/mario-kart-8-deluxe-icon.png",
+  "trophies": [
+    {
+      "id": "kart-blanche",
+      "name": "Kart Blanche",
+      "description": "Earn every other trophy.",
+      "tier": "platinum",
+      "group": null,
+      "icon": null,
+      "order": 1
+    },
+    {
+      "id": "mushroom-cup-clear",
+      "name": "Fungi Among Us",
+      "description": "Complete the Mushroom Cup Grand Prix.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 2
+    },
+    {
+      "id": "flower-cup-clear",
+      "name": "Bloom and Zoom",
+      "description": "Complete the Flower Cup Grand Prix.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 3
+    },
+    {
+      "id": "star-cup-clear",
+      "name": "Shooting for the Stars",
+      "description": "Complete the Star Cup Grand Prix.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 4
+    },
+    {
+      "id": "special-cup-clear",
+      "name": "Grand Finale",
+      "description": "Complete the Special Cup Grand Prix.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 5
+    },
+    {
+      "id": "shell-cup-clear",
+      "name": "Shell Shocked",
+      "description": "Complete the Shell Cup Grand Prix.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 6
+    },
+    {
+      "id": "banana-cup-clear",
+      "name": "Slip 'n Slide",
+      "description": "Complete the Banana Cup Grand Prix.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 7
+    },
+    {
+      "id": "leaf-cup-clear",
+      "name": "Leaf It to Me",
+      "description": "Complete the Leaf Cup Grand Prix.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 8
+    },
+    {
+      "id": "lightning-cup-clear",
+      "name": "Lightning Round",
+      "description": "Complete the Lightning Cup Grand Prix.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 9
+    },
+    {
+      "id": "all-cups-100cc-gold",
+      "name": "Full Throttle",
+      "description": "Earn a gold trophy in every 100cc Grand Prix cup.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 10
+    },
+    {
+      "id": "all-cups-150cc-gold",
+      "name": "Speed Demon",
+      "description": "Earn a gold trophy in every 150cc Grand Prix cup.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 11
+    },
+    {
+      "id": "unlock-mirror-mode",
+      "name": "Through the Looking Glass",
+      "description": "Unlock Mirror Mode.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 12
+    },
+    {
+      "id": "unlock-200cc",
+      "name": "Need for Speed",
+      "description": "Unlock the 200cc engine class.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 13
+    },
+    {
+      "id": "all-cups-200cc-gold",
+      "name": "Blur of Glory",
+      "description": "Earn a gold trophy in every 200cc Grand Prix cup.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 14
+    },
+    {
+      "id": "wave-1-clear",
+      "name": "First Wave, First Class",
+      "description": "Complete every course added in Wave 1 of the Booster Course Pass.",
+      "tier": "bronze",
+      "group": "Booster Course Pass",
+      "icon": null,
+      "order": 15
+    },
+    {
+      "id": "wave-2-clear",
+      "name": "Riding the Second Wave",
+      "description": "Complete every course added in Wave 2 of the Booster Course Pass.",
+      "tier": "bronze",
+      "group": "Booster Course Pass",
+      "icon": null,
+      "order": 16
+    },
+    {
+      "id": "wave-3-clear",
+      "name": "Third Time's the Charm",
+      "description": "Complete every course added in Wave 3 of the Booster Course Pass.",
+      "tier": "bronze",
+      "group": "Booster Course Pass",
+      "icon": null,
+      "order": 17
+    },
+    {
+      "id": "wave-4-clear",
+      "name": "Fourth and Fast",
+      "description": "Complete every course added in Wave 4 of the Booster Course Pass.",
+      "tier": "bronze",
+      "group": "Booster Course Pass",
+      "icon": null,
+      "order": 18
+    },
+    {
+      "id": "wave-5-clear",
+      "name": "High Five",
+      "description": "Complete every course added in Wave 5 of the Booster Course Pass.",
+      "tier": "bronze",
+      "group": "Booster Course Pass",
+      "icon": null,
+      "order": 19
+    },
+    {
+      "id": "wave-6-clear",
+      "name": "Sixth Sense of Speed",
+      "description": "Complete every course added in Wave 6 of the Booster Course Pass.",
+      "tier": "bronze",
+      "group": "Booster Course Pass",
+      "icon": null,
+      "order": 20
+    },
+    {
+      "id": "all-dlc-cups-gold",
+      "name": "Pass Perfected",
+      "description": "Earn a gold trophy in every Booster Course Pass cup.",
+      "tier": "gold",
+      "group": "Booster Course Pass",
+      "icon": null,
+      "order": 21
+    },
+    {
+      "id": "balloon-battle-win",
+      "name": "Pop Off",
+      "description": "Win a Balloon Battle in Battle Mode.",
+      "tier": "bronze",
+      "group": "Battle Mode",
+      "icon": null,
+      "order": 22
+    },
+    {
+      "id": "renegade-roundup-win",
+      "name": "Cuff 'Em",
+      "description": "Win a Renegade Roundup match in Battle Mode.",
+      "tier": "bronze",
+      "group": "Battle Mode",
+      "icon": null,
+      "order": 23
+    },
+    {
+      "id": "bobomb-blast-win",
+      "name": "Blast from the Past",
+      "description": "Win a Bob-omb Blast match in Battle Mode.",
+      "tier": "bronze",
+      "group": "Battle Mode",
+      "icon": null,
+      "order": 24
+    },
+    {
+      "id": "coin-runners-win",
+      "name": "Cha-Ching",
+      "description": "Win a Coin Runners match in Battle Mode.",
+      "tier": "bronze",
+      "group": "Battle Mode",
+      "icon": null,
+      "order": 25
+    },
+    {
+      "id": "shine-thief-win",
+      "name": "Shine On",
+      "description": "Win a Shine Thief match in Battle Mode.",
+      "tier": "bronze",
+      "group": "Battle Mode",
+      "icon": null,
+      "order": 26
+    },
+    {
+      "id": "first-time-trial",
+      "name": "Against the Clock",
+      "description": "Complete your first Time Trial.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 27
+    },
+    {
+      "id": "beat-staff-ghost",
+      "name": "Ghost Buster",
+      "description": "Beat a Staff Ghost's time in Time Trial.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 28
+    },
+    {
+      "id": "perfect-drift-boost",
+      "name": "Blue Sparks Fly",
+      "description": "Perform an Ultra Mini-Turbo by holding a drift at its peak charge.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 29
+    },
+    {
+      "id": "anti-gravity-boost",
+      "name": "Defying Gravity",
+      "description": "Trigger an Anti-Gravity dash boost while driving on a wall or ceiling.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 30
+    },
+    {
+      "id": "trigger-frenzy",
+      "name": "Feeling Frenzied",
+      "description": "Trigger Frenzy Mode with a rainbow-colored Item Box.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 31
+    },
+    {
+      "id": "triple-red-shell-hit",
+      "name": "Triple Threat",
+      "description": "Hit three different opponents using a single set of Triple Red Shells.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 32
+    },
+    {
+      "id": "no-item-win",
+      "name": "Pure Skill",
+      "description": "Win a Grand Prix race without using a single item.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 33
+    },
+    {
+      "id": "coin-max-race",
+      "name": "Loose Change",
+      "description": "Carry the maximum of 10 coins at once during a single race.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 34
+    },
+    {
+      "id": "try-every-body",
+      "name": "Kart Connoisseur",
+      "description": "Try every kart body at least once.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 35
+    },
+    {
+      "id": "try-every-wheel",
+      "name": "Wheel Deal",
+      "description": "Try every wheel set at least once.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 36
+    },
+    {
+      "id": "try-every-glider",
+      "name": "Up in the Air",
+      "description": "Try every glider at least once.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 37
+    },
+    {
+      "id": "max-stat-build",
+      "name": "Min-Maxer",
+      "description": "Build a vehicle combo with a maxed-out stat in any single category.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 38
+    },
+    {
+      "id": "local-multiplayer-race",
+      "name": "Couch Co-op",
+      "description": "Finish a race in local multiplayer with at least two players.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 39
+    },
+    {
+      "id": "online-race-win",
+      "name": "Worldwide Winner",
+      "description": "Win an online Worldwide race.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 40
+    },
+    {
+      "id": "eight-player-splitscreen",
+      "name": "Eight's Enough",
+      "description": "Play a race in 8-player split-screen using multiple Nintendo Switch consoles.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 41
+    },
+    {
+      "id": "lan-tournament",
+      "name": "Bracket Buster",
+      "description": "Create or join a Tournament in online play.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 42
+    },
+    {
+      "id": "smart-steering-win",
+      "name": "Training Wheels Off",
+      "description": "Win a race with Smart Steering turned off.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 43
+    },
+    {
+      "id": "mii-racer",
+      "name": "It's-a Me, Mii!",
+      "description": "Race as your own Mii character.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 44
+    },
+    {
+      "id": "all-characters-tried",
+      "name": "Full Roster Call",
+      "description": "Race at least once as every playable character, including those added after launch.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 45
+    },
+    {
+      "id": "no-damage-rainbow-road",
+      "name": "Somewhere Over the Finish Line",
+      "description": "Finish a race on Rainbow Road without falling off the track once.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 46
+    }
+  ]
+}

@@ -1,0 +1,403 @@
+{
+  "schemaVersion": 1,
+  "title": "Mario Kart 8 Deluxe",
+  "coverUrl": "https://i.ibb.co/qLcPkPQp/mario-kart-8-deluxe-icon.png",
+  "trophies": [
+    {
+      "id": "kart-blanche",
+      "name": "Kart Blanche",
+      "description": "Conquiste todos os outros troféus.",
+      "tier": "platinum",
+      "group": null,
+      "icon": null,
+      "order": 1
+    },
+    {
+      "id": "mushroom-cup-clear",
+      "name": "Cogumelo com Estilo",
+      "description": "Complete o Mushroom Cup Grand Prix.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 2
+    },
+    {
+      "id": "flower-cup-clear",
+      "name": "Flores na Pista",
+      "description": "Complete o Flower Cup Grand Prix.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 3
+    },
+    {
+      "id": "star-cup-clear",
+      "name": "Corrida das Estrelas",
+      "description": "Complete o Star Cup Grand Prix.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 4
+    },
+    {
+      "id": "special-cup-clear",
+      "name": "Grande Final",
+      "description": "Complete o Special Cup Grand Prix.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 5
+    },
+    {
+      "id": "shell-cup-clear",
+      "name": "Concha de Ouro",
+      "description": "Complete o Shell Cup Grand Prix.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 6
+    },
+    {
+      "id": "banana-cup-clear",
+      "name": "Escorregou!",
+      "description": "Complete o Banana Cup Grand Prix.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 7
+    },
+    {
+      "id": "leaf-cup-clear",
+      "name": "Ao Sabor do Vento",
+      "description": "Complete o Leaf Cup Grand Prix.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 8
+    },
+    {
+      "id": "lightning-cup-clear",
+      "name": "Relâmpago Final",
+      "description": "Complete o Lightning Cup Grand Prix.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 9
+    },
+    {
+      "id": "all-cups-100cc-gold",
+      "name": "Aceleração Total",
+      "description": "Conquiste o troféu de ouro em todos os copos do Grand Prix no 100cc.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 10
+    },
+    {
+      "id": "all-cups-150cc-gold",
+      "name": "Demônio da Velocidade",
+      "description": "Conquiste o troféu de ouro em todos os copos do Grand Prix no 150cc.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 11
+    },
+    {
+      "id": "unlock-mirror-mode",
+      "name": "Do Outro Lado do Espelho",
+      "description": "Desbloqueie o Mirror Mode.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 12
+    },
+    {
+      "id": "unlock-200cc",
+      "name": "Sede de Velocidade",
+      "description": "Desbloqueie a classe de motor 200cc.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 13
+    },
+    {
+      "id": "all-cups-200cc-gold",
+      "name": "Borrão de Glória",
+      "description": "Conquiste o troféu de ouro em todos os copos do Grand Prix no 200cc.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 14
+    },
+    {
+      "id": "wave-1-clear",
+      "name": "Primeira Onda, Primeira Classe",
+      "description": "Complete todas as pistas adicionadas na Wave 1 do Booster Course Pass.",
+      "tier": "bronze",
+      "group": "Booster Course Pass",
+      "icon": null,
+      "order": 15
+    },
+    {
+      "id": "wave-2-clear",
+      "name": "Pegando a Segunda Onda",
+      "description": "Complete todas as pistas adicionadas na Wave 2 do Booster Course Pass.",
+      "tier": "bronze",
+      "group": "Booster Course Pass",
+      "icon": null,
+      "order": 16
+    },
+    {
+      "id": "wave-3-clear",
+      "name": "Na Terceira é que Vai",
+      "description": "Complete todas as pistas adicionadas na Wave 3 do Booster Course Pass.",
+      "tier": "bronze",
+      "group": "Booster Course Pass",
+      "icon": null,
+      "order": 17
+    },
+    {
+      "id": "wave-4-clear",
+      "name": "Quarta e Veloz",
+      "description": "Complete todas as pistas adicionadas na Wave 4 do Booster Course Pass.",
+      "tier": "bronze",
+      "group": "Booster Course Pass",
+      "icon": null,
+      "order": 18
+    },
+    {
+      "id": "wave-5-clear",
+      "name": "Toca Aqui!",
+      "description": "Complete todas as pistas adicionadas na Wave 5 do Booster Course Pass.",
+      "tier": "bronze",
+      "group": "Booster Course Pass",
+      "icon": null,
+      "order": 19
+    },
+    {
+      "id": "wave-6-clear",
+      "name": "Sexto Sentido de Velocidade",
+      "description": "Complete todas as pistas adicionadas na Wave 6 do Booster Course Pass.",
+      "tier": "bronze",
+      "group": "Booster Course Pass",
+      "icon": null,
+      "order": 20
+    },
+    {
+      "id": "all-dlc-cups-gold",
+      "name": "Passe Impecável",
+      "description": "Conquiste o troféu de ouro em todos os copos do Booster Course Pass.",
+      "tier": "gold",
+      "group": "Booster Course Pass",
+      "icon": null,
+      "order": 21
+    },
+    {
+      "id": "balloon-battle-win",
+      "name": "Estourou!",
+      "description": "Vença uma partida de Balloon Battle no Battle Mode.",
+      "tier": "bronze",
+      "group": "Battle Mode",
+      "icon": null,
+      "order": 22
+    },
+    {
+      "id": "renegade-roundup-win",
+      "name": "Prende Aí",
+      "description": "Vença uma partida de Renegade Roundup no Battle Mode.",
+      "tier": "bronze",
+      "group": "Battle Mode",
+      "icon": null,
+      "order": 23
+    },
+    {
+      "id": "bobomb-blast-win",
+      "name": "Explosão Retrô",
+      "description": "Vença uma partida de Bob-omb Blast no Battle Mode.",
+      "tier": "bronze",
+      "group": "Battle Mode",
+      "icon": null,
+      "order": 24
+    },
+    {
+      "id": "coin-runners-win",
+      "name": "Cha-Ching",
+      "description": "Vença uma partida de Coin Runners no Battle Mode.",
+      "tier": "bronze",
+      "group": "Battle Mode",
+      "icon": null,
+      "order": 25
+    },
+    {
+      "id": "shine-thief-win",
+      "name": "Brilha Comigo",
+      "description": "Vença uma partida de Shine Thief no Battle Mode.",
+      "tier": "bronze",
+      "group": "Battle Mode",
+      "icon": null,
+      "order": 26
+    },
+    {
+      "id": "first-time-trial",
+      "name": "Contra o Relógio",
+      "description": "Complete seu primeiro Time Trial.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 27
+    },
+    {
+      "id": "beat-staff-ghost",
+      "name": "Caça-Fantasmas",
+      "description": "Vença o tempo de um Staff Ghost no Time Trial.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 28
+    },
+    {
+      "id": "perfect-drift-boost",
+      "name": "Faíscas Azuis",
+      "description": "Realize um Ultra Mini-Turbo mantendo a derrapagem no ponto máximo de carga.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 29
+    },
+    {
+      "id": "anti-gravity-boost",
+      "name": "Desafiando a Gravidade",
+      "description": "Ative um impulso de Anti-Gravity dirigindo por uma parede ou teto.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 30
+    },
+    {
+      "id": "trigger-frenzy",
+      "name": "Em Modo Frenético",
+      "description": "Ative o Frenzy Mode usando um Item Box arco-íris.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 31
+    },
+    {
+      "id": "triple-red-shell-hit",
+      "name": "Ameaça Tripla",
+      "description": "Acerte três adversários diferentes usando um único conjunto de Triple Red Shells.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 32
+    },
+    {
+      "id": "no-item-win",
+      "name": "Talento Puro",
+      "description": "Vença uma corrida do Grand Prix sem usar nenhum item.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 33
+    },
+    {
+      "id": "coin-max-race",
+      "name": "Trocado Guardado",
+      "description": "Carregue o máximo de 10 moedas ao mesmo tempo durante uma corrida.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 34
+    },
+    {
+      "id": "try-every-body",
+      "name": "Conhecedor de Karts",
+      "description": "Experimente todas as carrocerias de kart pelo menos uma vez.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 35
+    },
+    {
+      "id": "try-every-wheel",
+      "name": "Rodando Tudo",
+      "description": "Experimente todos os conjuntos de rodas pelo menos uma vez.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 36
+    },
+    {
+      "id": "try-every-glider",
+      "name": "No Ar",
+      "description": "Experimente todos os planadores pelo menos uma vez.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 37
+    },
+    {
+      "id": "max-stat-build",
+      "name": "Otimizador",
+      "description": "Monte uma combinação de veículo com um atributo totalmente maximizado em qualquer categoria.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 38
+    },
+    {
+      "id": "online-race-done",
+      "name": "COrredor Mundial",
+      "description": "Jogue uma corrida Worldwide online.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 40
+    },
+    {
+      "id": "lan-tournament",
+      "name": "Quebra-Chaves",
+      "description": "Crie ou participe de um Tournament no modo online.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 42
+    },
+    {
+      "id": "smart-steering-win",
+      "name": "Rodinhas Fora",
+      "description": "Vença uma corrida com o Smart Steering desativado.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 43
+    },
+    {
+      "id": "mii-racer",
+      "name": "Sou Eu, o Mii!",
+      "description": "Corra usando seu próprio personagem Mii.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 44
+    },
+    {
+      "id": "all-characters-tried",
+      "name": "Elenco Completo",
+      "description": "Corra pelo menos uma vez com todos os personagens jogáveis, incluindo os adicionados após o lançamento.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 45
+    },
+    {
+      "id": "no-damage-rainbow-road",
+      "name": "Sobre o Arco-Íris até a Linha de Chegada",
+      "description": "Termine uma corrida na Rainbow Road sem cair da pista nenhuma vez.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 46
+    }
+  ]
+}
