@@ -1,0 +1,421 @@
+{
+  "schemaVersion": 1,
+  "title": "Super Mario Odyssey",
+  "coverUrl": "https://i.ibb.co/HLzMTJYp/super-mario-odyssey-icon.png",
+  "trophies": [
+    {
+      "id": "super-mario-odyssey-master",
+      "name": "Cap It All Off!",
+      "description": "Earn every other trophy.",
+      "tier": "platinum",
+      "group": null,
+      "icon": null,
+      "order": 1
+    },
+    {
+      "id": "cap-kingdom-clear",
+      "name": "New Cap, New Journey",
+      "description": "Team up with Cappy and set sail from the Cap Kingdom.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 2
+    },
+    {
+      "id": "cascade-kingdom-clear",
+      "name": "Dino Might",
+      "description": "Defeat Madame Broode and claim the Multi-Moon in the Cascade Kingdom.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 3
+    },
+    {
+      "id": "sand-kingdom-clear",
+      "name": "Sands of Time",
+      "description": "Topple Knucklotec and claim the Multi-Moon in the Sand Kingdom.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 4
+    },
+    {
+      "id": "lake-kingdom-clear",
+      "name": "Gone Fishing",
+      "description": "Plumb the depths and claim the Multi-Moon in the Lake Kingdom.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 5
+    },
+    {
+      "id": "wooded-kingdom-clear",
+      "name": "Timber!",
+      "description": "Defeat the Ruined Dragon and claim the Multi-Moon in the Wooded Kingdom.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 6
+    },
+    {
+      "id": "lost-kingdom-clear",
+      "name": "Lava Me Alone",
+      "description": "Outrun Hariet's molten chase and claim the Multi-Moon in the Lost Kingdom.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 7
+    },
+    {
+      "id": "metro-kingdom-clear",
+      "name": "City That Never Jumps",
+      "description": "Defeat the Mechawiggler and claim the Multi-Moon in the Metro Kingdom.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 8
+    },
+    {
+      "id": "snow-kingdom-clear",
+      "name": "Cold Front",
+      "description": "Complete the Shiverian trials and claim the Multi-Moon in the Snow Kingdom.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 9
+    },
+    {
+      "id": "seaside-kingdom-clear",
+      "name": "Shell We Dance?",
+      "description": "Uncover the secrets of Bubblaine and claim the Multi-Moon in the Seaside Kingdom.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 10
+    },
+    {
+      "id": "luncheon-kingdom-clear",
+      "name": "Extra Spicy",
+      "description": "Cross the boiling lake and claim the Multi-Moon in the Luncheon Kingdom.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 11
+    },
+    {
+      "id": "ruined-kingdom-clear",
+      "name": "First Blood",
+      "description": "Face Bowser for the first time in the Ruined Kingdom.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 12
+    },
+    {
+      "id": "bowsers-kingdom-clear",
+      "name": "Bowser's Big Day",
+      "description": "Crash the wedding preparations and claim the Multi-Moon in Bowser's Kingdom.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 13
+    },
+    {
+      "id": "moon-kingdom-clear",
+      "name": "Til Death Do Us Part",
+      "description": "Defeat Bowser once and for all and rescue Peach on the Moon.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 14
+    },
+    {
+      "id": "mushroom-kingdom-unlocked",
+      "name": "Home Sweet Home",
+      "description": "Reach the credits and unlock the Mushroom Kingdom.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 15
+    },
+    {
+      "id": "dark-side-unlocked",
+      "name": "To the Dark Side",
+      "description": "Collect 250 Power Moons and unlock the Dark Side.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 16
+    },
+    {
+      "id": "darker-side-cleared",
+      "name": "Into the Darker Side",
+      "description": "Reach the Darker Side, the game's ultimate platforming gauntlet.",
+      "tier": "gold",
+      "group": "Darker Side",
+      "icon": null,
+      "order": 17
+    },
+    {
+      "id": "rabbit-ridge-clear",
+      "name": "Hare-Raising",
+      "description": "Reach the summit of Rabbit Ridge in the Darker Side.",
+      "tier": "gold",
+      "group": "Darker Side",
+      "icon": null,
+      "order": 18
+    },
+    {
+      "id": "first-power-moon",
+      "name": "One Small Jump",
+      "description": "Collect your first Power Moon.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 19
+    },
+    {
+      "id": "hundred-moons",
+      "name": "Moonstruck",
+      "description": "Collect 100 Power Moons.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 20
+    },
+    {
+      "id": "five-hundred-moons",
+      "name": "Lunar Landlord",
+      "description": "Collect 500 Power Moons.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 21
+    },
+    {
+      "id": "all-moons",
+      "name": "Over the Moon",
+      "description": "Collect all 880 Power Moons.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 22
+    },
+    {
+      "id": "moon-fragments",
+      "name": "Three's a Charm",
+      "description": "Collect three Moon Shards to form a complete Power Moon.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 23
+    },
+    {
+      "id": "all-regional-currencies",
+      "name": "Pocket Change",
+      "description": "Collect at least one unique Regional Coin souvenir from every Kingdom's gift shop.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 24
+    },
+    {
+      "id": "capture-tyrannosaurus",
+      "name": "Rawr Power",
+      "description": "Capture a Tyrannosaurus in the Cascade Kingdom.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 25
+    },
+    {
+      "id": "capture-bullet-bill",
+      "name": "Locked On",
+      "description": "Capture a Bullet Bill and cruise through the sky.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 26
+    },
+    {
+      "id": "capture-chain-chomp",
+      "name": "Good Boy",
+      "description": "Capture a Chain Chomp and drag it around by its chain.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 27
+    },
+    {
+      "id": "capture-uproot",
+      "name": "Pot Luck",
+      "description": "Capture an Uproot and stretch to new heights in the Wooded Kingdom.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 28
+    },
+    {
+      "id": "capture-frog",
+      "name": "Leap of Faith",
+      "description": "Capture a Frog and use its jump to reach new heights.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 29
+    },
+    {
+      "id": "capture-poison-piranha",
+      "name": "Toxic Bloom",
+      "description": "Capture a Poison Piranha Plant and spit your way through acid.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 30
+    },
+    {
+      "id": "capture-koopa",
+      "name": "Shell Shocked",
+      "description": "Capture a Koopa Troopa and swim using its shell.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 31
+    },
+    {
+      "id": "all-captures",
+      "name": "Cappy's Little Helpers",
+      "description": "Capture every possible enemy and object at least once.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 32
+    },
+    {
+      "id": "first-outfit",
+      "name": "New Look",
+      "description": "Purchase your first outfit from a Crazy Cap shop.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 33
+    },
+    {
+      "id": "wedding-outfit",
+      "name": "Something Blue",
+      "description": "Purchase the Wedding Outfit and matching top hat.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 34
+    },
+    {
+      "id": "all-outfits",
+      "name": "Fashionably Late",
+      "description": "Purchase every outfit and headwear available across all Crazy Cap shops.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 35
+    },
+    {
+      "id": "two-player-assist",
+      "name": "Two Heads Are Better",
+      "description": "Defeat a boss with a second player controlling Cappy in 2-Player Assist Mode.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 36
+    },
+    {
+      "id": "balloon-world-hide",
+      "name": "Master of Disguise",
+      "description": "Hide successfully in a Luigi's Balloon World hide-and-seek balloon.",
+      "tier": "bronze",
+      "group": "Luigi's Balloon World",
+      "icon": null,
+      "order": 37
+    },
+    {
+      "id": "balloon-world-seek",
+      "name": "Seek and You Shall Find",
+      "description": "Find a hidden balloon before time runs out in Luigi's Balloon World.",
+      "tier": "bronze",
+      "group": "Luigi's Balloon World",
+      "icon": null,
+      "order": 38
+    },
+    {
+      "id": "balloon-world-fast",
+      "name": "Record Breaker",
+      "description": "Beat a Luigi's Balloon World seeking course in under 10 seconds.",
+      "tier": "silver",
+      "group": "Luigi's Balloon World",
+      "icon": null,
+      "order": 39
+    },
+    {
+      "id": "rcm-first-listen",
+      "name": "Jump Up, Super Star!",
+      "description": "Watch the New Donk City Festival concert for the first time.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 40
+    },
+    {
+      "id": "jaxi-race",
+      "name": "Ride or Die",
+      "description": "Complete a Jaxi race in the Sand Kingdom.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 41
+    },
+    {
+      "id": "find-peach",
+      "name": "Where's Peach?",
+      "description": "Spot Peach sightseeing in a Kingdom after the credits.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 42
+    },
+    {
+      "id": "pauline-race",
+      "name": "Jump-Rope Champion",
+      "description": "Win a jump-rope contest against Pauline in the Metro Kingdom.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 43
+    },
+    {
+      "id": "hint-art-found",
+      "name": "Art Appreciation",
+      "description": "Use a Hint Toad's photo to uncover a hidden Power Moon.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 44
+    },
+    {
+      "id": "no-damage-boss",
+      "name": "Untouchable",
+      "description": "Defeat a Kingdom boss without taking any damage.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 45
+    },
+    {
+      "id": "life-up-heart",
+      "name": "Extra Life",
+      "description": "Find a Life-Up Heart to increase your maximum health.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 46
+    }
+  ]
+}
