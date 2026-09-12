@@ -27,6 +27,11 @@
       "cover_art_url": "https://i.ibb.co/qLcPkPQp/mario-kart-8-deluxe-icon.png"
     },
     {
+      "game_id": "metroid-dread",
+      "game_title": "Metroid Dread",
+      "cover_art_url": null
+    },
+    {
       "game_id": "pokemon-lets-go-eevee",
       "game_title": "Pokémon: Let's Go, Eevee!",
       "cover_art_url": "https://i.imgur.com/f1o9YZy.jpeg"

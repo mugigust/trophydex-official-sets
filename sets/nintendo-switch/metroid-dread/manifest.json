@@ -1,0 +1,421 @@
+{
+  "schemaVersion": 1,
+  "title": "Metroid Dread",
+  "coverUrl": null,
+  "trophies": [
+    {
+      "id": "metroid-dread-master",
+      "name": "Chozo's Chosen",
+      "description": "Earn every other trophy.",
+      "tier": "platinum",
+      "group": null,
+      "icon": null,
+      "order": 1
+    },
+    {
+      "id": "morph-ball",
+      "name": "Rolling Start",
+      "description": "Reclaim the Morph Ball after Raven Beak strips your abilities.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 2
+    },
+    {
+      "id": "first-emmi-encounter-survived",
+      "name": "Not Today",
+      "description": "Survive your first encounter with an E.M.M.I. without being caught.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 3
+    },
+    {
+      "id": "chozo-soldier-defeated",
+      "name": "Robot Wars",
+      "description": "Defeat a Chozo Soldier for the first time.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 4
+    },
+    {
+      "id": "map-station-first",
+      "name": "You Are Here",
+      "description": "Activate your first Map Station.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 5
+    },
+    {
+      "id": "flash-shift",
+      "name": "In a Flash",
+      "description": "Obtain the Flash Shift.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 6
+    },
+    {
+      "id": "first-emmi-defeated",
+      "name": "Hunter Becomes Hunted",
+      "description": "Escape and destroy your first E.M.M.I. unit.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 7
+    },
+    {
+      "id": "corpius-defeated",
+      "name": "Sting Operation",
+      "description": "Defeat Corpius.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 8
+    },
+    {
+      "id": "spider-magnet",
+      "name": "Sticking Around",
+      "description": "Obtain the Spider Magnet.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 9
+    },
+    {
+      "id": "kraid-defeated",
+      "name": "Big Lung Energy",
+      "description": "Defeat Kraid.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 10
+    },
+    {
+      "id": "spin-boost",
+      "name": "Free Fall, No Falling",
+      "description": "Obtain the Spin Boost.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 11
+    },
+    {
+      "id": "grapple-beam",
+      "name": "Swing Time",
+      "description": "Obtain the Grapple Beam.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 12
+    },
+    {
+      "id": "drogyga-defeated",
+      "name": "Jellyfish and Chips",
+      "description": "Defeat Drogyga.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 13
+    },
+    {
+      "id": "speed-booster",
+      "name": "Gotta Go Fast",
+      "description": "Obtain the Speed Booster.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 14
+    },
+    {
+      "id": "shinespark-first",
+      "name": "Spark Plug",
+      "description": "Perform your first Shinespark using the Speed Booster.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 15
+    },
+    {
+      "id": "phantom-cloak",
+      "name": "Now You See Me",
+      "description": "Obtain the Phantom Cloak.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 16
+    },
+    {
+      "id": "escue-defeated",
+      "name": "Storm Chaser",
+      "description": "Defeat Escue.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 17
+    },
+    {
+      "id": "storm-missile",
+      "name": "Thunderstruck",
+      "description": "Obtain the Storm Missile.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 18
+    },
+    {
+      "id": "plasma-beam",
+      "name": "Plasma Ray of Sunshine",
+      "description": "Obtain the Plasma Beam.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 19
+    },
+    {
+      "id": "golzuna-defeated",
+      "name": "Here Be Dragons",
+      "description": "Defeat Golzuna.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 20
+    },
+    {
+      "id": "diffusion-beam",
+      "name": "Wide Load",
+      "description": "Obtain the Diffusion Beam.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 21
+    },
+    {
+      "id": "z57-first-encounter",
+      "name": "Slippery When Wet",
+      "description": "Escape Experiment Z-57's grasp for the first time.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 22
+    },
+    {
+      "id": "ice-missile",
+      "name": "Cold Shoulder",
+      "description": "Obtain the Ice Missile.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 23
+    },
+    {
+      "id": "screw-attack",
+      "name": "Spin to Win",
+      "description": "Obtain the Screw Attack.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 24
+    },
+    {
+      "id": "central-unit-defeated",
+      "name": "Central Intelligence",
+      "description": "Defeat the Central Unit guarding Itorash.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 25
+    },
+    {
+      "id": "space-jump",
+      "name": "Sky's the Limit",
+      "description": "Obtain the Space Jump.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 26
+    },
+    {
+      "id": "z57-final-defeated",
+      "name": "No More Experiments",
+      "description": "Defeat Experiment Z-57 once and for all.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 27
+    },
+    {
+      "id": "all-emmi-defeated",
+      "name": "E.M.M.I. Exterminator",
+      "description": "Defeat every E.M.M.I. unit on ZDR.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 28
+    },
+    {
+      "id": "chozo-soul-forms",
+      "name": "Ancestral Power",
+      "description": "Acquire every Chozo-Soul empowered form throughout the story.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 29
+    },
+    {
+      "id": "raven-beak-defeated",
+      "name": "Fallen Idol",
+      "description": "Defeat Raven Beak.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 30
+    },
+    {
+      "id": "chozo-soul-finisher",
+      "name": "Awakening",
+      "description": "Finish Raven Beak with the awakened power of the Chozo-Soul.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 31
+    },
+    {
+      "id": "raven-beak-no-damage",
+      "name": "Untouchable",
+      "description": "Defeat Raven Beak without taking damage during his final phase.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 32
+    },
+    {
+      "id": "final-escape-sequence",
+      "name": "Last One Out",
+      "description": "Trigger the final escape sequence after defeating Raven Beak.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 33
+    },
+    {
+      "id": "energy-tank-full",
+      "name": "Fully Charged",
+      "description": "Collect every Energy Tank Part on ZDR.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 34
+    },
+    {
+      "id": "missile-tank-full",
+      "name": "Locked and Loaded",
+      "description": "Collect every Missile Tank on ZDR.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 35
+    },
+    {
+      "id": "power-bomb-tank-full",
+      "name": "Big Bada Boom",
+      "description": "Collect every Power Bomb Tank on ZDR.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 36
+    },
+    {
+      "id": "all-abilities-obtained",
+      "name": "Fully Equipped",
+      "description": "Obtain every main ability upgrade in the game.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 37
+    },
+    {
+      "id": "hundred-percent-completion",
+      "name": "Completionist's Dread",
+      "description": "Finish the game with 100% item collection.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 38
+    },
+    {
+      "id": "perfect-counter",
+      "name": "Counter Culture",
+      "description": "Perform a well-timed melee counter against an enemy.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 39
+    },
+    {
+      "id": "speedrun-bonus-art",
+      "name": "Against the Clock",
+      "description": "Complete the game in under 4 hours to unlock bonus concept art.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 40
+    },
+    {
+      "id": "chozo-memory-viewed",
+      "name": "Echoes of the Past",
+      "description": "View a Chozo Memory data log for the first time.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 41
+    },
+    {
+      "id": "rookie-mode-clear",
+      "name": "Easy Does It",
+      "description": "Complete the game on Rookie difficulty.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 42
+    },
+    {
+      "id": "hard-mode-unlock",
+      "name": "Bring It On",
+      "description": "Unlock Hard Mode by completing the game once.",
+      "tier": "silver",
+      "group": null,
+      "icon": null,
+      "order": 43
+    },
+    {
+      "id": "hard-mode-clear",
+      "name": "No Mercy",
+      "description": "Complete the game on Hard Mode.",
+      "tier": "gold",
+      "group": null,
+      "icon": null,
+      "order": 44
+    },
+    {
+      "id": "amiibo-samus",
+      "name": "Bonus Round",
+      "description": "Scan the Samus Aran (Metroid Dread) amiibo to receive a bonus Energy Part.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 45
+    },
+    {
+      "id": "amiibo-emmi",
+      "name": "Robotic Reward",
+      "description": "Scan an E.M.M.I. amiibo to receive a bonus reward.",
+      "tier": "bronze",
+      "group": null,
+      "icon": null,
+      "order": 46
+    }
+  ]
+}
